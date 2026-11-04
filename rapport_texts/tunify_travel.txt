@@ -1,0 +1,171 @@
+## Fiche Signalétique de la Candidature aux Récompenses JCI
+
+* **Nom du Projet / Équipe :** TouristUp – Application Tunify Travel
+
+
+* **Organisation Locale Membre (OLM) :** JCI Sahline
+
+
+* **Nom de l'Action / Hackathon :** Tourism Hackathon « SPARK & SHIP » (Forum Spark & Ship)
+
+
+* **Directrice d'Action :** Héla Garnaoui
+* **Date & Lieu :** 5 Avril 2026 – Les Oliviers Family Club
+
+
+* **Prix Remporté :** **1er Prix (1ère Place)** – Dotation de **600 DT** versée à la caisse de l'OLM JCI Sahline (Sponsor : TRAE.ai)
+* **Organisateurs :** JCI Bennane en collaboration avec JCI Sahline, JCI Ksibet Mediouni, JCI Ouardanine, JCI Bekalta, JCI Khniss, JCI Mahdia, JCI Sayda, JCI Msaken, JCI Ariana, et le partenaire technologique TRAE.ai
+
+
+* **Lien de la démo du projet :** [Vidéo Démo Tunify Travel sur YouTube](https://www.youtube.com/watch?v=_S8tvAxbOL8)
+
+---
+
+## 1. Objectifs du Projet
+
+* **Alignement Stratégique JCI & ODD :** Offrir une solution d'innovation digitale portée par des jeunes leaders pour stimuler le tourisme durable et local en Tunisie (ODD 8 : Travail décent et croissance économique ; ODD 9 : Industrie, Innovation et Infrastructure).
+* **Résolution des Dysfonctionnements Touristiques :** Répondre à l'absence de plateforme unique, à la fragmentation des informations, au manque de fiabilité des données et à la personnalisation limitée des séjours touristiques.
+
+
+* **Création d'une Solution Intelligente :** Concevoir l'application "Tunify Travel" pour connecter de façon interactive et fluide les visiteurs avec les destinations, activités et services.
+
+
+* **Impact et Valorisation Financière pour l'OLM :** Positionner la JCI Sahline comme un pôle d'innovation au sein de la zone, remporter le 1er prix du hackathon et injecter la dotation financière (600 DT) dans la caisse de l'OLM.
+
+---
+
+## 2. Description du Projet et Innovation (Tunify Travel)
+
+### Analyse des Problématiques Ciblées
+
+1. Absence de plateforme unique centralisée.
+
+
+2. Informations touristiques fragmentées et éparpillées.
+
+
+3. Manque de fiabilité des données en ligne.
+
+
+4. Absence d'itineraires complets gérés de A à Z.
+
+
+5. Manque de transparence au niveau des coûts prévisionnels.
+
+
+6. Personnalisation limitée selon les profils de visiteurs.
+
+
+7. Destinations et attractions sous-estimées ou mal identifiées.
+
+
+
+### La Solution Tunify Travel & Proposition de Valeur
+
+* **Carte Interactive Géomatique :** Affichage clair et structuré des régions et attractions touristiques.
+
+
+* **Gestion Globale (Travel Flow) :** Planification intégrée du séjour (vols, hébergements, activités).
+
+
+* **WishList Chatbot :** Assistance interactive en temps réel proposant des recommandations sur-mesure.
+
+
+* **Transparence Budgétaire :** Estimation automatique et claire du coût total du voyage.
+
+
+* **Business Model Durables :** Commissions sur les réservations effectuées auprès des hôtels, agences de voyage et restaurants partenaires.
+
+
+
+---
+
+## 3. Structure du Comité et Équipe de Projet
+
+| Rôle | Nom & Prénom | Titre / Compétences | Responsabilités dans le Projet |
+| --- | --- | --- | --- |
+| **Directrice d'Action** | Héla Garnaoui | Membre JCI Sahline, Full Stack Developer
+
+ | Direction générale, développement informatique et démo
+
+ |
+| **Comité de Présentation (Hackathon)** | Tasnim Naggara | VPPRE JCI Sahline, Licenciée en Comptabilité
+
+ | Gestion de projet, Business Model et monétisation
+
+ |
+| **Comité de Présentation (Hackathon)** | Nour Amamou | VPFD JCI Sahline, Technicienne & Master en Géomatique
+
+ | Cartographie, analyse spatiale et données géomatiques
+
+ |
+| **Conseillère Sponsoring (Post-Hackathon)** | Imen Agerbaoui | Conseillère JCI Sahline | Démarchage des sponsors, partenariats hôtels et agences de voyage |
+| **Comité de Suivi & Pérennité** | Chourouk Chalghmi<br>
+
+<br>Nesrine Khalfallah<br>
+
+<br>Ameni Brahem | Membres JCI Sahline | Développement continu, logistique post-hackathon et suivi des partenariats |
+
+---
+
+## 4. Stratégie, Planification et Chronologie
+
+```
+[Phase 1 : Préparation & Maquettage] ➔ [Phase 2 : Hackathon & Pitch (5 Avril)] ➔ [Phase 3 : Post-Hackathon & Partenariats]
+
+```
+
+### Phase 1 : Préparation et Structuration Technique (En amont)
+
+* Étude du marché touristique tunisien et identification des 7 lacunes majeures.
+
+
+* Structuration des données géographiques et conception de la maquette logicielle.
+
+
+* Élaboration du plan financier et du modèle d'affaires axé sur les commissions.
+
+
+
+### Phase 2 : Exécution lors du Hackathon SPARK & SHIP (5 Avril 2026)
+
+* **Lieu :** Les Oliviers Family Club.
+
+
+* **Mobilisation :** Travail intensif de l'équipe TouristUp (Héla Garnaoui, Tasnim Naggara, Nour Amamou) sous pression créative.
+
+
+* **Présentation (Pitching) :** Démonstration technique en direct de la plateforme Tunify Travel, défense du modèle économique et de la carte interactive devant le jury.
+
+
+
+### Phase 3 : Stratégie Post-Hackathon (Déploiement)
+
+* **Création d'un Comité d'Extension :** Intégration de Chourouk Chalghmi, Nesrine Khalfallah et Ameni Brahem pour assurer la continuité opérationnelle.
+* **Stratégie Relations Publiques & Sponsoring :** Supervision par Imen Agerbaoui pour démarcher les chaînes hôtelières et les agences de voyage afin de concrétiser les partenariats.
+
+---
+
+## 5. Participation, Résultats et Impacts
+
+* **Victoire au Hackathon :** L'équipe TouristUp de la JCI Sahline a décroché le **1er Prix (Centre du podium)** de la compétition.
+
+
+* **Impact Financier pour l'OLM :** Recouvrement du prix cash de **600 DT** (Sponsor officiel TRAE.ai), directement versé à la caisse de la JCI Sahline.
+* **Collaboration Inter-OLM :** Synergie réussie avec 9 organisations locales (Bennane, Ksibet Mediouni, Ouardanine, Bekalta, Khniss, Mahdia, Sayda, Msaken, Ariana).
+
+
+* **Rayonnement Média :** Production et diffusion d'une vidéo de présentation du projet sur YouTube et relais sur les réseaux sociaux.
+
+---
+
+## 6. Plan Futur et Feuille de Route (Roadmap)
+
+1. **Conventionnement avec les Acteurs du Tourisme :** Négociation d'accords-cadres avec les agences de voyage et la fédération hôtelière via la conseillère Sponsoring Imen Agerbaoui.
+2. **Développement de la Version V2 :** Perfectionnement du WishList Chatbot et intégration de données touristiques en temps réel.
+
+
+3. **Incubation & Transition Startup :** Structuration de Tunify Travel pour passer d'un projet de hackathon à une jeune entreprise innovante à impact national.
+
+
+Les agences à sahline on a collaborer avec ( Easy Fly & book sahline, achwak tours sahline, … ) 
