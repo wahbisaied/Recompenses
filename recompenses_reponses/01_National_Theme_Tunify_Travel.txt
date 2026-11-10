@@ -1,0 +1,78 @@
+CATEGORY: BEST LOCAL PROJECT WITHIN THE NATIONAL THEME
+PROJECT: TouristUp — Tunify Travel
+LOCAL ORGANIZATION: JCI Sahline
+NATIONAL THEME: “Tunisia, Capital of Arab Tourism: Heritage, Business and Discovery”
+STATUS: Strong thematic fit. Verify product status, partner activity, and evidence before submission.
+
+Project name: TouristUp — Tunify Travel
+Start date: [CONFIRM project preparation start date; hackathon date was 5 April 2026]
+End date: 5 April 2026 for the hackathon presentation; post-hackathon development is ongoing and must be described separately.
+
+Q1. Relevance to the category
+Tunify Travel addresses the National Theme by helping visitors discover Tunisian destinations, attractions, activities, accommodation, and services through a proposed digital travel platform. Its interactive map and integrated itinerary concept connect tourism discovery with local business opportunities. The project was presented at the SPARK & SHIP tourism hackathon on 5 April 2026 and won first place. The application is still described as a project with a future development roadmap; this entry will distinguish the demonstrated prototype from features and partnerships not yet operational.
+
+Q2. Entrepreneurship and innovation objectives
+The team set out to respond to fragmented and unreliable tourism information, limited itinerary planning, unclear travel costs, and limited personalization. The concept combines geospatial destination information, trip planning, personalized recommendations, and a proposed commission-based business model for bookings. The project aims to make lesser-known destinations easier to discover while creating a potential channel for local tourism providers. [Confirm which features were operational in the hackathon demo.]
+
+Q3. Clarity and feasibility of the project plan
+The project followed three stages: market-problem analysis and interface preparation; prototype demonstration and pitch at the 5 April 2026 hackathon; and a proposed post-hackathon phase for partner outreach, product improvement, and possible startup incubation. The first two stages are reported as completed. The third is a roadmap, not a completed result. Attach the dated plan, prototype screenshots, demo link, and evidence of completed milestones.
+
+Q4. Implementation and alignment with plan
+The team researched tourism-information gaps, structured geographic content, prepared a software mock-up/prototype, and presented a live demonstration and business model to the jury. The entry reports a first-place result and a 600 TND prize paid to JCI Sahline. [Attach the official result and receipt/bank or cashbook evidence.] Report any post-event development only with dated evidence.
+
+Q5. Contribution to the local organization's financial situation
+The documented direct financial contribution is the 600 TND hackathon prize reported as paid to JCI Sahline. This is a one-time prize, not recurring revenue from the app. No booking commissions or operating revenue are documented in the report. State any project expenses and net contribution only after reconciling receipts and the LOM ledger.
+
+Q6. Number and roles of JCI members involved
+The report names seven JCI Sahline members in project roles: Héla Garnaoui (project lead, development and demo); Tasnim Naggara (business model and presentation); Nour Amamou (geospatial analysis and mapping); Imen Agerbaoui (sponsorship/partner outreach); Chourouk Chalghmi, Nesrine Khalfallah, and Ameni Brahem (follow-up committee). Confirm who actively participated by the eligibility cut-off and provide the final count: [CONFIRM].
+
+Q7. Skills developed
+The work provided practical opportunities in software development, geospatial analysis, market research, pitching, business-model design, partnership outreach, and project coordination. [Add only documented training, participant feedback, or specific before/after skills evidence.]
+
+Q8. Training organized
+No formal training session is identified in the report. Answer: “No formal training session is documented for this project. The team developed skills through project work and the hackathon.” If training did occur, add title, date, trainer, attendance, and evaluation.
+
+Q9. Measurable business/community results
+The verifiable result reported is first place at the hackathon and a 600 TND prize to the LOM. The app's tourism transactions, user numbers, business registrations, jobs, and commissions are not yet reported. Do not describe these as achieved. Add current prototype status, user tests, tourism-provider commitments, and usage data if available.
+
+Q10. Social/community changes
+The project concept aims to make local and less-known destinations easier to find and to improve visitors' access to reliable information. This is an intended benefit, not a measured community outcome yet. [Add evidence from user tests or participating tourism businesses, if any.]
+
+Q11. Feedback
+The first-place award is external recognition of the hackathon presentation. No user or tourism-provider feedback is documented in the report. Add written jury feedback, user-test findings, or partner statements only when available.
+
+Q12. Social cohesion and participation
+The project brought together JCI members with complementary technical, business, and geospatial skills and was presented in a hackathon organized with several JCI local organizations. The report lists JCI Bennane and nine collaborating local organizations. Clarify which were co-organizers, contributors, or event participants; attach confirmations.
+
+Q13. Visibility/reputation of JCI Sahline
+The project represented JCI Sahline at a tourism hackathon and received first place. A project demo video and social-media relays are reported. Attach the event award, event branding, and publication analytics.
+
+Q14. Recruitment, partners, or sponsors
+The report names TRAE.ai as hackathon sponsor/technology partner and mentions outreach to travel agencies and hotels after the event. The latter is a planned activity unless signed agreements exist. No recruitment outcome is documented. Provide signed partner agreements and member inquiries only if recorded.
+
+Q15. Continuation/follow-up
+The roadmap proposes a V2, real-time tourism data, agreements with travel agencies/hotels, and possible startup incubation. These are plans, not completed outcomes. Add a dated implementation plan, responsible owners, milestones, and confirmed partners.
+
+Q16. Partnerships consolidated
+The hackathon collaboration and award sponsor are reported. Post-hackathon tourism partnerships are described as outreach/negotiation. State exactly which agreements are signed and which remain prospective.
+
+Q17. Local economic opportunities
+The intended opportunity is to direct visitors to local tourism businesses and potentially enable booking commissions. No jobs, bookings, business revenue, or commission income are quantified. Use the 2026 reporting period's actual transaction and partner data if available; otherwise state that the economic impact remains prospective.
+
+Suggested photos/evidence:
+- Team working on the prototype and a screenshot/video frame showing the actual demo.
+- Team pitching at SPARK & SHIP and the official award/first-place result.
+- Consent-cleared team photo with event organizers/partner TRAE.ai.
+- Prototype screens: interactive map, itinerary, estimated budget, chatbot only if these features were actually demonstrated.
+- Official evidence of the 600 TND prize and its transfer to the LOM.
+- Partner agreements or dated meeting evidence, if signed/held.
+
+Suggested 35–40 second video (English):
+“TouristUp is JCI Sahline’s tourism innovation project, created for the theme ‘Tunisia, Capital of Arab Tourism: Heritage, Business and Discovery.’ Tunify Travel is designed to help visitors discover destinations, plan trips, and connect with local tourism services through a digital map and personalized travel tools. Our team presented the concept at the SPARK & SHIP tourism hackathon on 5 April 2026 and won first place, with a 600-dinar prize reported for JCI Sahline. We are now working to validate the product and build partnerships. Our next step is to turn the prototype into a useful, measurable service for travelers and local businesses.”
+
+FINAL CHECKS / DO NOT SUBMIT UNTIL:
+- Confirm exact project start date and prototype functions that existed on presentation day.
+- Confirm 600 TND receipt and project expenses/net financial result.
+- Confirm member count and roles; reconcile the list (the report names seven people).
+- Confirm local business agreements, user tests, visitors/users, and any revenue; otherwise keep them explicitly prospective.
+- Check the 2026 category rule on whether a single project may be submitted to only one category.

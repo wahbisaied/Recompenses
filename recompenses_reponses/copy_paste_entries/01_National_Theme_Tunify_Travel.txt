@@ -1,0 +1,105 @@
+CATEGORY 18: BEST LOCAL PROJECT WITHIN THE NATIONAL THEME
+PROJECT NAME: TouristUp — Tunify Travel
+ORGANIZATION: JCI Sahline
+NATIONAL THEME: “Tunisia, Capital of Arab Tourism: Heritage, Business and Discovery”
+
+=== SECTION 1: OFFICIAL AWARD FORM SUBMISSION (COPY & PASTE READY) ===
+
+Project name / Local Organization:
+TouristUp — Tunify Travel / JCI Sahline
+
+Start date / End date:
+5 April 2026 is the documented hackathon presentation date. [VERIFY the project's actual preparation start date and eligible end date.]
+
+Project purpose (100-word limit):
+Tunify Travel is a digital tourism concept developed by JCI Sahline to help visitors discover Tunisian destinations and plan trips using organized destination information, an interactive map, itinerary planning, and personalized recommendations. It responds to fragmented tourism information and limited visibility for lesser-known attractions. The project was presented at the SPARK & SHIP tourism hackathon on 5 April 2026, where the team won first place and a reported 600 TND prize for JCI Sahline. The platform’s commercial deployment and tourism impact remain under development and are not presented as completed outcomes.
+
+Project overview (150-word limit):
+TouristUp developed and presented Tunify Travel, a proposed digital platform for discovering destinations, activities, accommodation, and services in Tunisia. The concept combines an interactive geospatial map, trip-planning tools, personalized recommendations, and a proposed commission-based model connecting travelers with tourism businesses. JCI Sahline’s team presented the concept at the SPARK & SHIP tourism hackathon on 5 April 2026 and received first place; the report states that the 600 TND prize was paid to the organization. The entry supports the national tourism theme through discovery and business innovation. Product features, tourism-provider agreements, users, bookings, and recurring revenue are reported only where independently verified.
+
+Q1. Relevance to the objectives and priorities of the National Theme:
+Tunify Travel directly supports “Tunisia, Capital of Arab Tourism: Heritage, Business and Discovery” by focusing on tourism discovery and a digital route to local tourism services. The concept is designed to make destination information easier to navigate and to connect visitors with attractions, accommodation, activities, and travel providers. Its proposed commission model also addresses the “Business” dimension. The team presented the concept at a tourism hackathon and won first place. We distinguish the demonstrated prototype from features and partnerships that remain planned.
+
+Q2. Main objectives related to entrepreneurship and/or innovation:
+The project aimed to address fragmented tourism information, limited destination visibility, incomplete itinerary planning, and unclear travel costs. The team proposed an interactive map, integrated travel planning, personalized recommendations, and a business model based on commissions from bookings with tourism providers. The objective was to use digital innovation to improve discovery and create a potential channel for local businesses. [VERIFY which features were operational in the hackathon demonstration.]
+
+Q3. Is the project plan clear and feasible?
+The work was organized in three stages: identify tourism-information gaps and prepare the product concept; present the prototype and business model at the SPARK & SHIP hackathon on 5 April 2026; and pursue a post-hackathon roadmap for product development and tourism partnerships. The hackathon presentation is documented. The roadmap is a plan, not a completed deployment. Our next milestones are to validate user needs, confirm tourism-provider agreements, and track actual use.
+
+Q4. Was implementation structured and in line with the plan?
+The team reports conducting a market review, structuring geographic content, preparing a software concept/prototype, and demonstrating it to the hackathon jury. The team won first place. The post-event committee and partnership outreach are described as follow-up plans. [VERIFY actual milestones completed after the hackathon and attach dated evidence.]
+
+Q5. Contribution to the financial situation of the Local Organization:
+The project report states that the first-place award generated 600 TND for JCI Sahline. This is a one-time award, not recurring income from app bookings. The report does not provide project expenses or a reconciled net balance. We will report the net contribution only after matching the award receipt and project expenses to the organization's ledger.
+
+Q6. Number of JCI members actively involved:
+The project report names seven JCI Sahline members in project roles: Héla Garnaoui, Tasnim Naggara, Nour Amamou, Imen Agerbaoui, Chourouk Chalghmi, Nesrine Khalfallah, and Ameni Brahem. [VERIFY which members actively participated during the eligible period and enter the final count.]
+
+Q7. Specific roles played by members:
+Héla Garnaoui led the project, software development, and demonstration; Tasnim Naggara contributed to project management, the business model, and the pitch; Nour Amamou contributed geospatial mapping and analysis; Imen Agerbaoui was assigned sponsorship and partner outreach; and Chourouk Chalghmi, Nesrine Khalfallah, and Ameni Brahem were listed for follow-up and continuity. Confirm completed roles against the project roster.
+
+Q8. Did the project develop members' leadership, project-management, and entrepreneurship skills?
+The project provided practical experience in software development, geospatial analysis, market research, business-model design, pitching, and partnership planning. The report describes these roles but does not include formal pre/post skill assessments. We therefore report the activities as skill-building opportunities and do not claim measured improvement without evaluation evidence.
+
+Q8. Was specific training organized for members?
+The project report does not document a separate training session. The team developed and applied skills through project work and the hackathon. [If a training was held, add its verified title, date, trainer, attendance, and evaluation.]
+
+Q9. Concrete and measurable results:
+The documented competition result is first place at SPARK & SHIP on 5 April 2026. The project report also states that 600 TND was paid to JCI Sahline. The report does not document app users, completed bookings, tourism-business revenue, jobs, or commission income; these are not claimed as achieved results.
+
+Q10. Positive social or community changes:
+Tunify Travel is designed to improve access to tourism information and support discovery of destinations and services. The report does not include user research results or measured community changes after deployment. We will describe these as intended benefits until user testing and usage data are available.
+
+Q11. Reactions or feedback from beneficiaries or partners:
+The first-place award is documented recognition by the hackathon jury. The source report does not provide written user or tourism-provider feedback. [Add only feedback supported by a dated survey, jury note, or partner statement.]
+
+Q12. Social cohesion and community participation:
+The project brought together JCI members with software, accounting/business, and geospatial expertise. It was presented at an event involving JCI Bennane, JCI Sahline, and other listed local organizations. The report lists nine other JCI local organizations in connection with the event. [Verify the exact organizations and whether each was an organizer, partner, or participant.]
+
+Q13. Increased visibility or reputation of the Local Organization:
+JCI Sahline’s team represented the organization at a tourism hackathon and won first place. The report also identifies a demo video and social-media relays. [Attach the official award result and dated publication evidence.]
+
+Q14. Recruitment of members, partners, or sponsors:
+TRAE.ai is identified in the report as the hackathon sponsor/technology partner. The report describes later outreach to tourism businesses as a strategy, but does not establish signed post-hackathon agreements or recruitment results. We will report only confirmed agreements and tracked membership inquiries.
+
+Q15. Planned continuation or long-term follow-up:
+The report proposes a second version, enhanced chatbot and real-time information, agreements with travel agencies and hotels, and possible startup incubation. These are roadmap items. The team will track each milestone and report completed work separately from future plans.
+
+Q16. Consolidated partnerships:
+The hackathon collaboration and TRAE.ai's stated role are described in the report. Tourism-agency and hotel relations are described as outreach/negotiation. [List only signed or otherwise confirmed agreements as active partnerships.]
+
+Q17. Contribution to local economic opportunities:
+The proposed model could direct travelers to local tourism businesses and generate commissions. The current report does not quantify bookings, business income, jobs, or commissions. The economic contribution is therefore a potential, not a measured result. We will assess it through verified partner agreements, referrals, bookings, and revenue if the service becomes operational.
+
+=== SECTION 2: REQUIRED MEDIA & PROOFS ===
+
+PHOTO PROOFS:
+1. Dated, high-resolution image of the team presenting the actual prototype at SPARK & SHIP.
+2. Screenshots of the exact features demonstrated: map, itinerary, budget estimate, and chatbot only if they were functional in the demo.
+3. Official first-place certificate, jury announcement, or event result.
+4. Team photo with JCI Sahline identification and event branding.
+5. Evidence of the 600 TND award payment to the LOM, with private banking details redacted.
+6. Signed tourism-provider partnership documents only if such agreements exist.
+
+VIDEO SCRIPT & CONCEPT (approximately 38 seconds):
+00:00–00:07 — Visual: Map of Tunisia and a visitor searching for a destination. Voice-over: “Tunisia has remarkable destinations, but visitors can struggle to find reliable, connected travel information.”
+00:07–00:20 — Visual: Screen capture of the actual Tunify prototype. Voice-over: “TouristUp, JCI Sahline’s tourism innovation project, presented Tunify Travel: a digital concept for discovering destinations and planning a trip.”
+00:20–00:30 — Visual: Team pitching at SPARK & SHIP; award image. Voice-over: “On 5 April 2026, our team won first place at the SPARK & SHIP tourism hackathon. The project report records a 600-dinar award for JCI Sahline.”
+00:30–00:38 — Visual: Team and local tourism scene. Voice-over: “Our next step is to validate the product with travelers and tourism businesses, and build measurable value for local tourism.”
+
+=== SECTION 3: STRATEGIC NOTES & ACTION ITEMS (FOR INTERNAL USE ONLY) ===
+
+DATA TO ADJUST:
+- Confirm exact project preparation start date and the competition's official result.
+- Confirm seven named members' active participation and final count.
+- Confirm the 600 TND receipt, expenses, and net project balance.
+- List which prototype features were actually demonstrated.
+- Replace prospective partnership language with evidence-backed agreements only.
+
+CRITICAL MISSING ELEMENTS:
+- User testing, active users, bookings/referrals, tourism-business commitments, and measured economic impact are absent from the source report.
+- The 600 TND is a reported prize, not recurring app revenue.
+- Confirm 2026 rules on word limits and whether the project may be entered in one category only.
+
+STRENGTHENING TIP:
+Keep this entry in the National Theme category because its tourism and discovery connection is direct. Do not simultaneously submit Tunify to Entrepreneurship if the one-project/one-category rule applies. A small documented user test and signed pilot with local providers would materially strengthen the impact case.
