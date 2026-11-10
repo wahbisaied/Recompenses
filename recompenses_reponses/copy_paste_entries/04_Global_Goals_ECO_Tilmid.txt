@@ -1,11 +1,11 @@
 INTERNAL PRE-SUBMISSION NOTES — REMOVE BEFORE PASTING
 - Critical Proofs Required Before Submission:
-  1. Official weighing slips (bons de pesée) and payment receipt from Société Kahlaoui de Recyclage for the 150 kg collected.
+  1. Official weighing slips (bons de pesée) and payment records from Société Kahlaoui de Recyclage to verify the school-reported total of 940 kg.
   2. Purchase invoices and documented distribution ledger for new school notebooks delivered to underprivileged students.
-  3. School authorization letters and photos of the paper collection boxes in partner institutions (AMAD, Lambda, Salem, Lycée Sahline, Collège Sahline).
+  3. School confirmations and photos of collection activities at Sahline High School, Sahline Middle School, AMED School, Lambda High School, El Habib Primary School, and El Salem Primary School.
 - Fact-Checking Disclaimers:
-  - 150 kg collected is the currently achieved result (15% of target). The 1,000 kg figure, 400 TND revenue, and 2,500 notebooks are TARGET PROJECTIONS, not realized outcomes. Do not present them as completed.
-- Audio-Visual Note: The voice-over script is exactly 93 words, timed for a natural delivery of ~125 words per minute in 43 seconds.
+  - The four school figures provided total 940 kg (94% of the 1,000 kg target). Confirm whether the later-added El Habib and El Salem schools are included before presenting 940 kg as the full project total. The 376 TND value is only an arithmetic estimate at the reported 0.400 TND/kg rate, not verified income. Collection receipts and notebook purchases/distribution have not been documented here.
+- Audio-Visual Note: The voice-over must be recounted after final edits and timed to fit the 30–45 second video requirement.
 
 CATEGORY: BEST LOCAL GLOBAL GOALS
 PROJECT NAME: ECO تلميذ (ECO Tilmid) — From Recycling to Educational Solidarity
@@ -23,21 +23,21 @@ Start Date:
 01/05/2026
 
 End Date:
-30/06/2026
+Ongoing — 2026 cycle (as of 10 November 2026)
 
 Project Overview: Provide a brief description of your project, outlining its main objectives, key activities, and expected impacts. (Word limit:150):
-Launched in May 2026 across public and private educational institutions in Sahline, ECO Tilmid addresses end-of-year paper waste through social entrepreneurship. JCI Sahline partnered with five educational establishments (École and Collège AMAD, Lycée and Collège Lambda, École Primaire Salem, Lycée Sahline, and Collège Sahline) and an industrial partner, Société Kahlaoui de Recyclage. JCI members conducted environmental awareness visits, installed dedicated paper collection boxes in schools, and coordinated weighing and transport logistics. With an intermediate milestone of 150 kg collected toward a one-ton objective, the project generates financial resources to buy new school supplies for vulnerable students, transforming environmental stewardship into an engine of educational equity.
+Launched in May 2026, ECO Tilmid mobilizes Sahline schools to collect used paper for recycling and to support students in need. The reported weights are 200 kg from Sahline High School, 290 kg from Sahline Middle School, 340 kg from AMED School, and 110 kg from Lambda High School: 940 kg in total, pending confirmation through official weighing records. El Habib and El Salem primary schools joined later; their weights and inclusion in that total are not yet confirmed. JCI Sahline is also targeting preparatory and preschool institutions in Sahline. The initiative aims to convert recyclable paper into resources for school supplies.
 
 Program Objectives and Strategic Execution
 
 Q1: What were the primary objectives of the program? (Word limit:200):
-The program pursued three strategic objectives. First, advancing SDG 12 by diverting educational paper waste from municipal dumps into formalized recycling channels, cultivating environmental responsibility and waste segregation habits among school pupils. Second, supporting SDG 4 by creating a self-sustaining funding mechanism: proceeds from collected paper (contracted at 0.400 TND per kilogram) directly fund the acquisition of new school notebooks for students from impoverished backgrounds, alleviating back-to-school financial pressure on vulnerable families. Third, establishing a collaborative educational ecosystem uniting private schools, public institutions, recycling enterprises, and youth leaders in a joint circular economy initiative.
+The program pursues three objectives. First, advancing SDG 12 by directing educational paper waste toward recycling and promoting responsible waste practices among pupils. Second, supporting SDG 4 by using proceeds from paper recovery, if confirmed and received, to help fund school notebooks for students in need. The reported recycling rate is 0.400 TND per kilogram; the applicable rate and proceeds must be confirmed with the recycler. Third, building an educational collaboration between schools, a recycling enterprise, and youth leaders around a circular-economy initiative.
 
 Q2: Describe the key strategies and methods used in the execution of the program. (Word limit:200):
-The project deployed a structured four-stage methodology. Stage 1 focused on institutional outreach: securing administrative authorizations from five public and private schools and establishing a collection agreement with Société Kahlaoui de Recyclage. Stage 2 executed on-campus engagement: JCI members visited classrooms to deliver age-appropriate sensitization talks on circular economy and installed informative campaign posters funded by partner École AMAD. Stage 3 established collection infrastructure: positioning marked sorting boxes in each school to gather used notebooks, scrap paper, and outdated archives. Stage 4 managed logistics: organizing periodic collection, batch weighing, and commercial transfer to the recycling company, with all revenues escrowed for notebook purchases.
+The project combines school outreach and environmental awareness with the collection of used paper for recycling. Four reported school weights are: Sahline High School (200 kg), Sahline Middle School (290 kg), AMED School (340 kg), and Lambda High School (110 kg). El Habib and El Salem primary schools joined later, but their weights and whether they are included in the 940 kg total need confirmation. JCI Sahline is targeting preparatory and preschool institutions next. The team coordinates collection and recycler handover; official weighing records and payment documentation should be used to reconcile quantities and proceeds.
 
 Q3: In what ways did the program cultivate enterprising young leaders for a changing world? (Word limit:200):
-ECO Tilmid empowered JCI Sahline members to act as green social entrepreneurs. Rather than conducting traditional charity drives, members designed an operational circular business model requiring commercial negotiations, supply-chain logistics, and multi-stakeholder coordination. Members negotiated material pricing with industrial recyclers, designed educational campaigns tailored to youth audiences, and managed distributed collection points across five distinct school campuses. This hands-on experience honed competencies in sustainable development planning, operational project management, and cross-sector leadership.
+ECO Tilmid gives JCI Sahline members practical experience in environmental project coordination and social entrepreneurship. Members engage educational institutions, promote responsible paper disposal, and coordinate collection and recycler handover. This work develops skills in communication, logistics, project planning, and stakeholder engagement. As the initiative expands to additional primary, preparatory, and preschool institutions, members can continue applying these competencies across a broader school network.
 
 Q4: How did this initiative align with the JCI Plan of Action and the strategic direction towards enterprising leadership? (Word limit:200):
 The initiative directly aligns with the JCI Plan of Action by addressing global United Nations priorities at a hyper-local level through enterprising solutions. By rejecting passive aid models in favor of resource recovery, JCI Sahline demonstrated how young leaders apply business principles—valuing recyclable waste, establishing commercial partnerships, and reinvesting proceeds—to resolve acute community challenges, perfectly embodying JCI's vision of enterprising leadership driving sustainable societal change.
@@ -45,13 +45,13 @@ The initiative directly aligns with the JCI Plan of Action by addressing global 
 Planning, Execution, and Financial Oversight
 
 Q5: Describe the execution process. How were the project's activities coordinated to align with the financial goals? (Word limit:200):
-Execution strictly maintained a zero-cost operational structure. JCI Sahline absorbed minor organizational coordination costs, while our educational partner, École et Collège AMAD, covered all graphic design, printing, and promotional poster expenses. The financial model was tied directly to recovery volume: each kilogram of paper recovered generates 0.400 TND in revenue. This transparent unit-pricing structure ensured that project revenues directly mapped to educational purchasing power, creating a fully traceable social return on investment.
+JCI Sahline coordinates school collection and recycling logistics. The reported recycling rate is 0.400 TND per kilogram, subject to confirmation with the recycler. At that rate, the four school-reported weights totaling 940 kg would correspond to 376 TND before any adjustments; this is an estimate, not verified proceeds. The financial objective is to direct confirmed recycling income toward school supplies for students in need. Receipts and payment records are required to report actual income and spending.
 
 Q6: How effectively were the budget and financial resources managed to achieve the desired outcomes? (Word limit:200):
-Financial oversight was highly rigorous. The project maintained strict segregation between organizational expenses and recycling revenues. All proceeds from the sale of collected paper were quarantined in a dedicated social solidarity ledger earmarked solely for notebook procurement. By securing commercial transport and corporate sponsorship for communication materials, 100% of the revenue generated from paper recycling directly translates into educational materials for vulnerable children.
+The project’s intended financial approach is to document paper weights, recycling income, and any purchases of school supplies separately. The actual amount received, expenses incurred, and value of supplies purchased have not been provided, so a verified financial outcome cannot yet be stated. JCI Sahline should retain the recycler’s weighing slips and payment records alongside purchase invoices and distribution records.
 
 Q7: What was the financial outcome of the project, whether surplus or deficit? How will any financial surplus be reinvested to develop your local organization? (Word limit:200):
-The project operates as a dedicated social fund with zero deficit. Current collections have achieved 150 kg of recovered paper, generating an initial 60 TND toward our ultimate 400 TND target (corresponding to the 1,000 kg milestone). All financial surplus generated beyond the purchase of notebooks is reinvested into expanding the recycling bin infrastructure for the upcoming academic year.
+The four school-reported weights total 940 kg, or 94% of the 1,000 kg collection target, leaving a reported difference of 60 kg. At the reported rate of 0.400 TND/kg, 940 kg would represent an estimated 376 TND if all quantities are accepted and paid at that rate. This is not a confirmed receipt or surplus. Actual income, expenses, notebook purchases, and any reinvestment remain to be verified from financial records.
 
 Member Engagement and Value Creation
 
@@ -70,7 +70,7 @@ Q11: In what ways did this project elevate JCI's visibility among corporate spon
 The partnership with an established industrial firm, Société Kahlaoui de Recyclage, demonstrated JCI Sahline's ability to engage commercial enterprises in Corporate Social Responsibility (CSR). Educational officials and local delegates recognized the project as a model of practical youth engagement supporting public education and municipal environmental goals.
 
 Q12: How did the project attract and increase awareness among potential future members? (Word limit:200):
-Sensitizing high school and college students at Lycée Sahline and Collège Lambda exposed graduating youth to JCI's values of active citizenship and enterprise. Several young educators and senior students expressed strong interest in JCI's leadership programs, establishing an organic recruitment pipeline among environmentally conscious youth.
+Engagement with students at Sahline High School, Sahline Middle School, AMED School, and Lambda High School introduces young people to JCI's values of active citizenship and environmental responsibility. El Habib and El Salem primary schools joined later, and the project is targeting preparatory and preschool institutions in Sahline.
 
 Membership Growth and Organizational Benefits
 
@@ -78,7 +78,7 @@ Q13: What was the increase in members (number and percentage) attributed to this
 The school-based visibility and community resonance generated four prospective candidate applications from young educators and university graduates who participated as project volunteers, contributing to our chapter's ongoing membership recruitment objectives.
 
 Q14: How did the Local Organization benefit from implementing this project? (Word limit:200):
-JCI Sahline institutionalized permanent working partnerships with five leading educational institutions across the Sahline delegation. These institutional agreements provide an enduring platform for future youth empowerment, debate clubs, and civic leadership training.
+The initiative has expanded its school network to include Sahline High School, Sahline Middle School, AMED School, Lambda High School, and the later-added El Habib and El Salem primary schools. Formal agreements and the exact status of each relationship should be confirmed. Further outreach is planned for preparatory and preschool institutions in Sahline.
 
 Q15: Explain how this project was specifically designed to boost membership growth. (Word limit:200):
 The initiative was structured to involve teachers, parent associations, and university students as active collection champions. By assigning clear, impactful volunteer roles in waste collection and distribution, JCI Sahline provided prospective members with an immediate, inspiring taste of community leadership, facilitating their natural pathway into full membership.
@@ -103,7 +103,7 @@ PHOTO PROOFS:
 1. School Awareness Sessions: Photographs of JCI members delivering environmental education talks to students in partner classrooms.
 2. Collection Infrastructure: Clear images of the official ECO Tilmid recycling boxes installed in school corridors with project posters.
 3. Logistics and Weighing: Pictures documenting JCI members and school staff loading collected paper archives and conducting batch weighing with Société Kahlaoui de Recyclage.
-4. Partner Recognition: Photos of the educational posters co-branded with École AMAD and JCI Sahline.
+4. Partner Recognition: Photos of the educational posters co-branded with AMED School and JCI Sahline.
 5. Official Industrial Receipts: High-resolution scans of the weighing slips (bons de pesée) and recycling transaction receipts issued by Société Kahlaoui.
 6. Notebook Purchase & Handover: Photos of newly procured notebooks prepared for distribution to needy students.
 
@@ -115,4 +115,4 @@ PHOTO PROOFS:
 
 VOICE-OVER SCRIPT (90–100 WORDS):
 [Exact Word Count: 93 words]
-"In May 2026, JCI Sahline launched ECO Tilmid, an innovative circular economy initiative transforming school paper waste into educational opportunities. Partnering with five regional schools and Société Kahlaoui de Recyclage, our members set up paper recovery boxes to collect discarded textbooks and notebooks. By monetizing collected paper at four hundred millimes per kilogram, the project directly finances new school supplies for children from disadvantaged families. Having gathered an initial one hundred fifty kilograms toward our one-ton target, ECO Tilmid advances Sustainable Development Goals 4 and 12, turning environmental responsibility into concrete social solidarity."
+"In May 2026, JCI Sahline launched ECO Tilmid to turn school paper waste into educational solidarity. Four schools reported collecting 940 kilograms: Sahline High School, 200; Sahline Middle School, 290; AMED School, 340; and Lambda High School, 110. El Habib and El Salem primary schools joined later, and the initiative is targeting preparatory and preschool institutions in Sahline. The program aims to recycle paper and support students in need through notebook purchases. The reported school figures are being reconciled with official weighing records as the campaign continues toward its one-ton target."

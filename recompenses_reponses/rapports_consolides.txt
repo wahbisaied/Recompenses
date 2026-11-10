@@ -10,24 +10,18 @@ Voici l'intégralité du contenu extrait du document fourni :
 
 
 
-#### **Partenaires :**
+#### **Établissements participants et partenaire de recyclage :**
 
-* École et collège AMAD SAHLINE
+Établissements pour lesquels un poids de collecte a été communiqué :
 
+* Lycée de Sahline : **200 kg**
+* Collège de Sahline : **290 kg**
+* École AMED : **340 kg**
+* Lycée Lambda : **110 kg**
 
-* COLLÈGE ET LYCÉE LAMDA
+Ces quatre chiffres totalisent **940 kg**. Ils sont rapportés par établissement et doivent être rapprochés des bons de pesée officiels. Les écoles primaires El Habib et El Salem ont rejoint le programme par la suite; leur poids n'a pas été communiqué et il reste à confirmer si leur collecte est incluse dans les chiffres ci-dessus. Le projet cible également les écoles préparatoires et préscolaires de Sahline.
 
-
-* ÉCOLE PRIMAIRE SALEM
-
-
-* LYCÉE SAHLINE
-
-
-* COLLÈGE SAHLINE
-
-
-* SOCIÉTÉ KAHLAOUI DE RECYCLAGE (Contact : 25 451 415)
+* Société Kahlaoui de Recyclage (partenaire de valorisation du papier; poids et paiements à justifier par les documents correspondants).
 
 
 
@@ -47,7 +41,7 @@ ECO تلميذ associe ainsi économie circulaire, mobilisation éducative et so
 * JCI Sahline prend en charge les frais d'organisation.
 
 
-* École et collège AMAD prend en charge les frais des affiches et la communication.
+* École AMED prend en charge les frais des affiches et de la communication.
 
 
 
@@ -130,59 +124,26 @@ L'exécution du projet ECO تلميذ repose sur une démarche progressive coord
 
 | Indicateur | Valeur / Détails |
 | --- | --- |
-| **Collecte actuelle** | 150 kg (soit 15% de l'objectif)
+| **Collecte déclarée pour quatre établissements** | 940 kg au total : lycée de Sahline (200 kg), collège de Sahline (290 kg), école AMED (340 kg), lycée Lambda (110 kg). Chiffres à vérifier avec les bons de pesée.
 
  |
 | **Objectif final** | 1 000 kg (1 tonne de papier)
 
  |
-| **Effort restant** | 850 kg (soit 85% de l'objectif)
+| **Écart par rapport à l'objectif** | 60 kg (6% de l'objectif), sur la base des 940 kg rapportés et sous réserve que les écoles primaires ajoutées ultérieurement ne soient pas déjà comprises dans ce total.
 
  |
-| **Valorisation estimée** | 400 DT (à l'objectif, au tarif de 0,400 DT / kg ou 400 millimes / kg)
+| **Valeur indicative** | 376 DT pour 940 kg au tarif rapporté de 0,400 DT/kg, uniquement si ce tarif s'applique à tout le poids et si le recycleur confirme le poids et le paiement. Ce montant n'est pas présenté comme un revenu encaissé.
 
  |
-
----
-
-#### **Poids de référence & Estimations d'articles :**
-
-* **Poids moyens estimés par type de papier :**
-* Petit cahier (96 pages) : **200 g**
-
-
-* Grand cahier (96 pages) : **400 g**
-
-
-* Livre scolaire : **500 g**
-
-
-* Feuille A4 : **5 g**
-
-
-
-
-* **Combien d'articles cela représente-t-il ?**
-* **Petits cahiers :** $\approx 750$ pour 150 kg | $\approx 5\ 000$ pour 1 Tonne
-
-
-* **Grands cahiers :** $\approx 375$ pour 150 kg | $\approx 2\ 500$ pour 1 Tonne
-
-
-* **Livres scolaires :** $\approx 300$ pour 150 kg | $\approx 2\ 000$ pour 1 Tonne
-
-
-
-
 
 ---
 
 #### **Impact environnemental et social attendu (pour 1 Tonne) :**
 
-* $\approx 1$ **Arbre préservé**
+Les équivalences en arbres préservés et en cahiers neufs restent des estimations à documenter; elles ne constituent pas des résultats mesurés du programme.
 
-
-* $\approx 2\ 500$ **Cahiers neufs** distribués aux élèves
+L'objectif de vente du papier servirait à financer des cahiers neufs pour des élèves issus de familles nécessiteuses; le nombre acheté ou distribué n'a pas encore été communiqué.
 
 
 * *Un geste écologique... une action solidaire pour une éducation meilleure !*
@@ -897,5 +858,3 @@ Sources internes :
 - Rapport d'action « visibilite_locale.txt ».
 - Dossier « plus/Extraction de statistiques d'images et media.md », comprenant l'extraction de captures Facebook, Instagram, LinkedIn, YouTube et Google Local Guide.
 - Informations complémentaires communiquées par JCI Sahline le 10 novembre 2026 (site officiel, canaux et Radio Chabeb).
-
-

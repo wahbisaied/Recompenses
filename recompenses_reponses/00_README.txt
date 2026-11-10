@@ -13,7 +13,7 @@ RECOMMENDED SUBMISSIONS
 01 Tunify Travel — Best Local Project within the National Theme (strongest thematic fit; verify prototype and outcomes).
 02 Month of Heritage — Best Interorganisation Collaboration.
 03 Rabies Vaccination — Best Local Community Impact (confirm animals actually vaccinated).
-04 ECO Tilmid — Best Local Global Goals (150 kg is reported; downstream benefits are targets until verified).
+04 ECO Tilmid — Best Local Global Goals (four school-reported weights total 940 kg; verify the weighing records and whether later-added El Habib and El Salem are included. Recycling proceeds and educational benefits remain to be verified).
 05 October Rose — Best Civic Engagement Program.
 06 Finance Law Seminar — Best Local Growth and Development (conditional; demonstrate lasting learning and member development).
 07 Google Maps Local Visibility — Best Digital Influence and Marketing Program (conditional; verify official LOM ownership and metrics).
