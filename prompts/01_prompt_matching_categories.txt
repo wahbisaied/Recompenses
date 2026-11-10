@@ -1,0 +1,78 @@
+PROMPT 1 — ANALYSE DES RAPPORTS, MATCHING ET ARBITRAGE DES CATÉGORIES
+
+RÔLE
+Agis comme conseiller expert des JCI Awards pour JCI Sahline. Analyse tous les rapports et formulaires disponibles dans le dépôt. Recommande les catégories les plus défendables, avec une stratégie de couverture large mais sans présenter une même action dans plusieurs catégories si le règlement l'interdit.
+
+ARCHITECTURE RÉELLE DU DÉPÔT
+Arborescence utile (les noms de fichiers indiqués sont ceux du dépôt) :
+.
+├── prompts/
+│   ├── 01_prompt_matching_categories.txt
+│   └── 02_prompt_generer_dossiers_recompenses.txt
+├── rapport_texts/                         # huit rapports source
+├── recomp_txt/                             # formulaires/critères officiels disponibles
+├── recompenses_reponses/
+│   ├── copy_paste_entries/                 # SEUL emplacement canonique des candidatures
+│   │   ├── 00_READ_ME_FIRST.txt
+│   │   └── 01 à 09_*.txt                   # dossiers existants, un par catégorie
+│   ├── 00_README.txt                       # ancien guide; ne prévaut pas sur le guide canonique
+│   ├── 02_*.txt à 06_*.txt                 # anciens brouillons; ne pas utiliser ni actualiser
+│   └── rapports_consolides.txt             # compilation pratique, potentiellement obsolète
+├── plus/
+│   └── Extraction de statistiques d'images et media.md
+├── membres.txt
+├── recompenses_nationales_jcet_2025_content.txt
+└── README.md
+
+Utilise les huit fichiers de rapport_texts/ comme sources de vérité. Les anciens brouillons 02–06 à la racine de recompenses_reponses/ sont des versions historiques et ne doivent pas être considérés comme des candidatures supplémentaires : la version canonique, si elle existe, est dans copy_paste_entries/. Le dossier de gestion financière (09) est une candidature institutionnelle, pas un neuvième rapport.
+
+RAPPORTS SOURCE À EXAMINER
+1. rapport_texts/eco-eleve.txt
+2. rapport_texts/fete_arbre.txt
+3. rapport_texts/loi_de_finance.txt
+4. rapport_texts/mois-patrimoine.txt
+5. rapport_texts/octobre rose.txt
+6. rapport_texts/tunify_travel.txt
+7. rapport_texts/vaccination-rage.txt
+8. rapport_texts/visibilite_locale.txt
+
+La candidature « Best Local Financial Management and Resource Mobilization Program » est une piste institutionnelle complémentaire fondée sur les informations financières communiquées par l'utilisateur et sur recomp_txt/Best Local Financial Management and Resource Mobilization Program.txt. Ce n'est pas un neuvième rapport de projet. Vérifie aussi recompenses_reponses/copy_paste_entries/09_Financial_Management_Resource_Mobilization.txt comme résumé de travail, mais remonte aux preuves et demandes originales.
+
+CONTEXTE À UTILISER
+- JCI Sahline.
+- Thème national communiqué pour 2026 : « La Tunisie, capitale de tourisme arabe : Héritage, Affaire et Découverte » / “Tunisia, Capital of Arab Tourism: Heritage, Business and Discovery.”
+- Les formulaires dans recomp_txt/ sont la référence principale pour les questions de candidature disponibles. Le fichier 2025 est un complément historique et ne doit pas être présenté comme règlement 2026.
+- Le dossier de gestion financière comprend notamment des sponsors et apports en nature; les montants annuels, évaluations et contrôles doivent être vérifiés.
+- La campagne de plantation du 8 novembre 2026 rapporte 130 végétaux (100 myoporums, 10 ficus, 20 plantes ornementales mixtes) et un don de 20 plantes par Pépinière Idéale. La durée réelle du programme, la présence des partenaires, le budget et la survie des plants restent à vérifier.
+- Pour Tunify Travel, Wifak Tours et Easy Fly & Booking ont exprimé leur intérêt à collaborer et soutenir l'idée. Ne les qualifie pas de partenaires signés/actifs sans preuve d'accord ou d'activité commune.
+- Pour les chiffres sociaux/médias, conserve les plateformes, périodes et définitions; ne somme pas les audiences chevauchantes et ne présente pas les vues du compte Google Local Guide comme vues de lieux ou portée JCI.
+
+MISSION
+1. Lis les huit rapports source, le contenu média utile, les membres si pertinent, chaque formulaire potentiellement correspondant et les critères 2025 en complément.
+2. Établis une matrice action/rapport → catégorie principale recommandée, avec la justification, le niveau de preuve, les lacunes majeures et les catégories alternatives éventuelles.
+3. Examine explicitement les huit actions et le dossier institutionnel de gestion financière.
+4. Propose d'autres catégories seulement si les preuves disponibles les rendent plausibles. Les catégories individuelles, nouvelles organisations, formateurs, international, RISE, flagship, etc. ne doivent pas être suggérées sans critères d'éligibilité et preuves correspondantes.
+5. Arbitre les conflits entre actions pour une même catégorie. Applique une règle « une action / une catégorie » lorsque le règlement applicable le prévoit; indique si cette règle provient du document 2025 et doit être confirmée pour 2026.
+6. Classe les candidatures en « recommandée », « conditionnelle » ou « ne pas déposer actuellement ». Une catégorie ne doit pas être dite prête si des preuves essentielles manquent.
+
+INTÉGRITÉ DES FAITS
+- N'invente aucun chiffre, partenariat signé, dépense, revenu, participant, bénéficiaire, résultat, impact, attribution de portée, ou résultat de recrutement.
+- Distingue clairement fait rapporté, preuve vérifiée, objectif, projection, intention et information manquante.
+- Si une estimation peut être calculée à partir de données réelles, indique sa méthode et marque-la comme estimation à valider. Si aucune base raisonnable n'existe, écris « non documenté » au lieu de supposer.
+- Note les contradictions, les dates incohérentes et les rapports dupliqués. Le rapport antirabique mis à jour prévaut sur toute ancienne compilation.
+- N'infère pas qu'un partenaire cité était présent, qu'un animal accueilli a été vacciné, ou qu'un plant livré a été planté/survécu.
+
+LIVRABLE
+Crée ou mets à jour un seul fichier Markdown :
+recompenses_reponses/00_matching_strategy.md
+
+Le fichier doit contenir :
+- date et périmètre de l'analyse;
+- synthèse exécutive;
+- tableau couvrant les huit rapports et le dossier de gestion financière (action, catégorie principale, adéquation, preuves disponibles, lacunes, statut);
+- catégories supplémentaires plausibles et conditions;
+- arbitrage et plan de couverture sans double emploi;
+- liste priorisée des éléments à vérifier/collecter;
+- note claire que les critères 2025 sont historiques et que les règles 2026 doivent être confirmées.
+
+N'ajoute aucun autre fichier. Ne modifie pas les rapports ni les candidatures existantes pendant cette analyse. À la fin, réponds brièvement en français avec le chemin du fichier produit et les principales recommandations.

@@ -51,7 +51,7 @@ Q10. Positive social or community changes:
 Tunify Travel is designed to improve access to tourism information and support discovery of destinations and services. The report does not include user research results or measured community changes after deployment. We will describe these as intended benefits until user testing and usage data are available.
 
 Q11. Reactions or feedback from beneficiaries or partners:
-The first-place award is documented recognition by the hackathon jury. The source report does not provide written user or tourism-provider feedback. [Add only feedback supported by a dated survey, jury note, or partner statement.]
+The first-place award is documented recognition by the hackathon jury. In addition, Wifak Tours and Easy Fly & Booking expressed strong appreciation for the Tunify Travel idea and interest in starting a collaboration and supporting the project. This is expressed interest, not a signed agreement or a delivered contribution. [Attach dated written confirmations or meeting records if available.]
 
 Q12. Social cohesion and community participation:
 The project brought together JCI members with software, accounting/business, and geospatial expertise. It was presented at an event involving JCI Bennane, JCI Sahline, and other listed local organizations. The report lists nine other JCI local organizations in connection with the event. [Verify the exact organizations and whether each was an organizer, partner, or participant.]
@@ -60,16 +60,16 @@ Q13. Increased visibility or reputation of the Local Organization:
 JCI Sahline’s team represented the organization at a tourism hackathon and won first place. The report also identifies a demo video and social-media relays. [Attach the official award result and dated publication evidence.]
 
 Q14. Recruitment of members, partners, or sponsors:
-TRAE.ai is identified in the report as the hackathon sponsor/technology partner. The report describes later outreach to tourism businesses as a strategy, but does not establish signed post-hackathon agreements or recruitment results. We will report only confirmed agreements and tracked membership inquiries.
+TRAE.ai is identified in the report as the hackathon sponsor/technology partner. Wifak Tours and Easy Fly & Booking have expressed interest in beginning a collaboration and supporting Tunify Travel after appreciating the idea. No signed agreement, defined contribution, or recruitment result is documented yet. We describe these agencies as prospective partners, not confirmed operational partners.
 
 Q15. Planned continuation or long-term follow-up:
-The report proposes a second version, enhanced chatbot and real-time information, agreements with travel agencies and hotels, and possible startup incubation. These are roadmap items. The team will track each milestone and report completed work separately from future plans.
+The report proposes a second version, enhanced chatbot and real-time information, agreements with travel agencies and hotels, and possible startup incubation. Wifak Tours and Easy Fly & Booking have expressed interest in starting collaboration and supporting the project. The next step is to define a pilot scope and partner contributions in writing. Until an agreement is signed and activities begin, this remains a prospective collaboration rather than a completed result.
 
 Q16. Consolidated partnerships:
-The hackathon collaboration and TRAE.ai's stated role are described in the report. Tourism-agency and hotel relations are described as outreach/negotiation. [List only signed or otherwise confirmed agreements as active partnerships.]
+The hackathon collaboration and TRAE.ai's stated role are described in the report. Wifak Tours and Easy Fly & Booking have expressed interest in supporting Tunify Travel and starting a collaboration, but formal agreements and specific contributions are not yet documented. We will count them as confirmed partners only after written commitments define their roles.
 
 Q17. Contribution to local economic opportunities:
-The proposed model could direct travelers to local tourism businesses and generate commissions. The current report does not quantify bookings, business income, jobs, or commissions. The economic contribution is therefore a potential, not a measured result. We will assess it through verified partner agreements, referrals, bookings, and revenue if the service becomes operational.
+The proposed model could direct travelers to local tourism businesses and generate commissions. The expressed interest of Wifak Tours and Easy Fly & Booking indicates potential for testing the concept with travel-sector stakeholders, but no bookings, business income, jobs, or commissions are documented. The economic contribution remains prospective and will be assessed through a defined pilot, partner referrals, bookings, and revenue if the service becomes operational.
 
 === SECTION 2: REQUIRED MEDIA & PROOFS ===
 
@@ -79,13 +79,13 @@ PHOTO PROOFS:
 3. Official first-place certificate, jury announcement, or event result.
 4. Team photo with JCI Sahline identification and event branding.
 5. Evidence of the 600 TND award payment to the LOM, with private banking details redacted.
-6. Signed tourism-provider partnership documents only if such agreements exist.
+6. Written expressions of interest or dated meeting records from Wifak Tours and Easy Fly & Booking; label these as prospective interest, not signed partnerships. Add signed agreements only if they exist.
 
 VIDEO SCRIPT & CONCEPT (approximately 38 seconds):
 00:00–00:07 — Visual: Map of Tunisia and a visitor searching for a destination. Voice-over: “Tunisia has remarkable destinations, but visitors can struggle to find reliable, connected travel information.”
 00:07–00:20 — Visual: Screen capture of the actual Tunify prototype. Voice-over: “TouristUp, JCI Sahline’s tourism innovation project, presented Tunify Travel: a digital concept for discovering destinations and planning a trip.”
 00:20–00:30 — Visual: Team pitching at SPARK & SHIP; award image. Voice-over: “On 5 April 2026, our team won first place at the SPARK & SHIP tourism hackathon. The project report records a 600-dinar award for JCI Sahline.”
-00:30–00:38 — Visual: Team and local tourism scene. Voice-over: “Our next step is to validate the product with travelers and tourism businesses, and build measurable value for local tourism.”
+00:30–00:38 — Visual: Team and local tourism scene. Voice-over: “Wifak Tours and Easy Fly & Booking have expressed interest in collaborating and supporting the idea. Our next step is to define a pilot and measure its value.”
 
 === SECTION 3: STRATEGIC NOTES & ACTION ITEMS (FOR INTERNAL USE ONLY) ===
 
@@ -94,10 +94,11 @@ DATA TO ADJUST:
 - Confirm seven named members' active participation and final count.
 - Confirm the 600 TND receipt, expenses, and net project balance.
 - List which prototype features were actually demonstrated.
-- Replace prospective partnership language with evidence-backed agreements only.
+- Confirm what Wifak Tours and Easy Fly & Booking mean by “support”: obtain permission to name them, dated written expressions of interest, intended roles, and any specific resource commitment.
+- Do not describe either agency as a formal partner until an agreement is signed or a documented activity has taken place.
 
 CRITICAL MISSING ELEMENTS:
-- User testing, active users, bookings/referrals, tourism-business commitments, and measured economic impact are absent from the source report.
+- User testing, active users, bookings/referrals, defined tourism-business contributions, and measured economic impact are absent from the source report.
 - The 600 TND is a reported prize, not recurring app revenue.
 - Confirm 2026 rules on word limits and whether the project may be entered in one category only.
 

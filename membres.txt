@@ -1,0 +1,73 @@
+A	B
+1
+Prénom & Nom	Qualité
+2
+Adem Essefi	Membre
+3
+Ameni Brahem	Membre
+4
+Amine Amamou	Membre
+5
+Azza Amamou	Past Président
+6
+Chourouk chalghmi
+Membre
+7
+Eya el Jayez	Membre
+8
+Eya Saied	Membre
+9
+Farhat Attia	PPI
+10
+Hanene Abdallah
+Membre
+11
+Hela Garnaoui	Membre
+12
+Hossein Belaid	Past Président
+13
+Imen Agrebaoui	Membre
+14
+Mahdi Jeblaoui	Membre
+15
+Mansour ben njma	Membre
+16
+Mariem Barkach	Conseillere Juridique
+17
+Meriem Azaiez
+Past Président
+18
+Mohamed Akrem Ben abdsslem
+Trésorier
+19
+Mourad Khedija
+Past Président
+20
+Nadia Brahem
+Membre
+21
+Nesrine ben Khalfallah
+Membre
+22
+Nour Amamou	VPFD
+23
+Radhia Sahraoui
+Membre
+24
+Refka Jlassi	Membre
+25
+Sabrine Mensi	Membre
+26
+Sarra Ltaief	Membre
+27
+Sarra Rhouma	Sécrétaire Générale
+28
+Souha Sahraoui	Membre
+29
+Tasnim Naggara	VPPRE
+30
+Wahbi Saied	Président
+
+------------------------
+année de janvier 2026 à decembre 2026 de ce bureau 
+site officiel jci-sahline.tn 

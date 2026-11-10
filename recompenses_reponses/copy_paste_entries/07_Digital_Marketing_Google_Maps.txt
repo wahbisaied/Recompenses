@@ -1,116 +1,134 @@
 CATEGORY (2025 reference #23; confirm 2026 numbering): BEST DIGITAL INFLUENCE AND MARKETING PROGRAM
-PROJECT NAME: Sahline on Google Maps — Local Place Information
-ORGANIZATION: JCI Sahline [OFFICIAL LOM OWNERSHIP MUST BE CONFIRMED]
-STATUS: CONDITIONAL. The current report describes an individual's Local Guide activity; the award form is for a marketing programme managed by the Local Organization.
+PROJECT: JCI Sahline — Integrated Digital Presence and Discover Sahline
+ORGANIZATION: JCI Sahline
+CAMPAIGN LEAD: Med Akrem Ben Abdesslem (Google Maps local-visibility activity)
+STATUS: Updated using the organization's 10 November 2026 information and the evidence extraction in plus/Extraction de statistiques d'images et media.md. Confirm official LOM ownership of Google Maps work and all reporting windows before submission.
 
 === SECTION 1: OFFICIAL AWARD FORM SUBMISSION (COPY & PASTE READY) ===
 
 Project name / Local Organization:
-Discover Sahline — Local Information on Google Maps / JCI Sahline [confirm formal ownership]
+JCI Sahline — Integrated Digital Presence and Discover Sahline / JCI Sahline
 
 Start date / End date:
-Early 2026 during Ramadan [confirm exact date] / [insert verified reporting cut-off]
+The Google Maps contribution activity began in early 2026 during Ramadan [confirm exact start date]. Social-channel statistics in the evidence file include snapshots through 8 November 2026. [Enter official award-period end date.]
 
-Q1. Main objectives of the year's marketing strategy:
-The report describes an effort to improve discoverability of places and services across Sahline and nearby communities by adding or updating Google Maps information. It does not document an annual JCI Sahline marketing strategy. This entry should be submitted only if the LOM confirms that it formally owned or endorsed the initiative and can provide its marketing objectives.
+Q1. What were the main objectives of your marketing strategy for the year?
+JCI Sahline's documented digital activity pursued two connected objectives: make the Local Organization's community work visible through its digital channels, and make local services and destinations easier to find through Google Maps. The Google Maps work, led by Med Akrem Ben Abdesslem, began in early 2026 during Ramadan and focused on adding or improving local place information. The organization's stated audience includes residents, visitors, seasonal tourism workers, airport and technopole employees, and people newly arrived in the area. A formal annual marketing plan with approved targets is not documented in the current evidence.
 
-Q2. Communication plan structure:
-The report identifies local residents, seasonal workers, tourism and airport employees, and international residents as people who may benefit from easier access to local information. It does not document a communication calendar, campaign messages, or channel plan. [Add these only if an approved plan exists.]
+Q2. How was the communication plan structured (targets, channels, messages, timeline)?
+The channels identified by JCI Sahline are Facebook, Instagram, YouTube, LinkedIn, its official website (jci-sahline.tn), Google Maps, and radio appearances. The intended audiences include the local community and people who need practical information about schools, public services, cultural and religious institutions, hotels, cafés, and shops. The message is to discover JCI Sahline's community actions and find useful, accurate local information. The Google Maps activity began in early 2026; the evidence file provides social-media snapshots through 8 November 2026. A dated editorial calendar and channel-specific annual targets are not present in the evidence.
 
-Q3. Content or campaigns:
-The documented activity involved adding or updating locations and practical information such as opening hours and contact details for schools, public services, cultural institutions, banks, hotels, and other local places. The report does not list a JCI-branded content campaign.
+Q3. What types of content or campaigns were implemented?
+JCI Sahline published event announcements, photographs, Reels, Stories, videos, community-awareness materials, training and workshop promotions, and radio-interview content. Documented examples include the Month of Heritage Reel, October Rose awareness content, the rabies-prevention campaign, a LinkedIn workshop, and Tunify Travel coverage. On Google Maps, the local-visibility activity added or improved place information such as locations, opening hours, and contact details for schools, public services, cultural and religious institutions, postal services, hotels, cafés, and local shops. The Google Maps figures are account-level statistics and are not represented as JCI campaign reach.
 
-Q4. Planning tools:
-No editorial calendar, campaign-management tool, or content tracker is documented. We do not claim that these tools were used.
+Q4. What planning tools did you use (e.g., editorial calendar, retro-planning)?
+The evidence confirms the use of Facebook and Instagram professional dashboards and platform analytics to review views, audiences, interactions, and follows. It does not document an editorial calendar, retro-planning tool, CRM, or shared campaign tracker. We do not claim those tools were used.
 
-Q5. Was the plan followed and adjusted?
-The report states that mapping work began in early 2026 during Ramadan. It does not specify a campaign plan, milestones, or adjustments. The exact dates and work history must be confirmed.
+Q5. Was the plan followed as intended? What adjustments were necessary?
+The Google Maps contribution work is reported as starting in early 2026 during Ramadan. Social analytics show published content and snapshots through 8 November 2026. The current evidence does not include an approved plan against which delivery or adjustments can be evaluated. We therefore report the documented activity and performance, not an unverified plan-completion rate.
 
-Q6. Active website:
-The report does not state whether JCI Sahline has an active website. [Enter verified website URL and current publishing activity, or state that no active website is maintained.]
+Q6. Does the LOM have an active website? What content is published there regularly?
+JCI Sahline reports an official website at https://jci-sahline.tn. The available evidence does not specify the site's update frequency or content published during the award period. [Confirm that the site was active during the period and provide dated examples before submission.]
 
-Q7. Social-media platforms:
-The report does not list official JCI Sahline platforms used for this activity. [List only active official accounts and links.]
+Q7. What social-media platforms are used?
+JCI Sahline reports using Facebook, Instagram, YouTube, and LinkedIn, alongside its official website and Google Maps presence. The organization also reports radio appearances. Platform profile data in the evidence file include Facebook, Instagram, LinkedIn, and YouTube snapshots.
 
-Q8. Performance statistics:
-The report states more than 2.2 million views, more than 500 contributions, more than 2,000 points, and Local Guide Level 6. These appear to be account-level figures and are not identified as Sahline-specific campaign analytics. They must be verified with dated screenshots, a reporting period, and clear attribution before being used as JCI campaign results.
+Q8. Can you provide performance statistics (followers, engagement, views, reach)?
+The available snapshots provide the following platform-specific metrics:
+- Facebook: the page announced more than 4,000 followers on 7 November 2026. Its professional dashboard recorded 400,046 views from 1 January to 8 November 2026. For 11 October–7 November 2026, it recorded 94,271 views, 1,862 three-second views, 24 one-minute views, and 8 hours 14 minutes of watch time; 86.3% of views in that 28-day period came from non-followers.
+- Instagram (@jci_sahline): 1,530 followers and 705 posts on the profile snapshot. The 30-day dashboard recorded 30,229 views, 8,975 unique viewers, 1,364 interactions, 286 profile visits, and a net increase of 16 followers.
+- LinkedIn (JCI SAHLINE): 249 connections on the profile snapshot. Example posts recorded 445 impressions for a LinkedIn workshop and 255 impressions for a training/delegation announcement.
+- YouTube (JCI Sahline Jeune Chambre Internationale de Sahline): 31 subscribers and 42 videos on the snapshot.
+- Google Maps / Local Guide: the “Jci Sahline” account snapshot shows Local Guide level 6, 535 contributions, about 2.3K points, and about 2.2M total account views. These are account-level lifetime/profile figures, not verified views for Sahline locations or an official campaign.
+These snapshots have different periods and definitions. Audiences and views across platforms are not added together because users may overlap.
 
-Q9. Reaching new audiences or potential members:
-The report explains the potential benefit for seasonal workers, airport and tourism employees, and international residents who may not know local places. It does not measure new audience acquisition or membership leads.
+Q9. How did the digital strategy reach new audiences or potential members?
+Facebook dashboard data show that non-followers accounted for 76.5% of views from 1 January to 8 November 2026 and 86.3% of views from 11 October to 7 November 2026. Instagram recorded 8,975 unique viewers over the 30-day dashboard period. These figures demonstrate exposure beyond existing followers, but do not identify how many viewers were new residents, visitors, or potential members. The Google Maps activity is intended to help visitors, seasonal workers, and people unfamiliar with Sahline find local services; user outcomes have not been measured.
 
-Q10. Community-management strategy:
-No response, correction, moderation, or community-management process is documented. We do not claim such a strategy.
+Q10. Has a community-management strategy been put in place?
+The available evidence shows publication and monitoring of platform performance but does not document a formal community-management policy, response-time target, moderation workflow, or escalation procedure. We do not claim a formal process that is not evidenced.
 
-Q11. Significant media coverage:
-No radio, television, or press appearance related to this mapping activity is identified in the report.
+Q11. Has the LOM secured significant media coverage (radio, television, press)?
+At least one radio intervention is documented: JCI Sahline President Wahbi Saied discussed the organization's activity and the rabies-prevention campaign on Radio Monastir, 104.7 FM. The media evidence file includes a recording of the intervention. JCI Sahline also reports an intervention on Radio Chabeb; a dated recording or station confirmation is not included in the evidence file.
 
-Q12. Number of media appearances:
-No media-appearance count is documented.
+Q12. How many media appearances took place?
+The evidence currently supports at least one Radio Monastir intervention. A Radio Chabeb appearance is reported by the organization but remains to be verified with a date, link, or station confirmation. We do not count it as a confirmed second appearance until that evidence is obtained.
 
-Q13. Projects or events covered:
-No media coverage of the mapping initiative is documented in the source report.
+Q13. Which projects or events were covered by the media?
+The documented Radio Monastir intervention covered JCI Sahline's activities and the rabies-prevention campaign. The organization's online channels also covered the Month of Heritage, October Rose, the rabies campaign, workshops, and other activities. The Radio Chabeb coverage requires confirmation before being listed as completed media coverage.
 
-Q14. Measurable impact of media appearances:
-No media appearance or related impact measure is documented.
+Q14. What was the measurable impact of these media appearances on the LOM's visibility?
+The recorded Radio Monastir segment is available as a YouTube video with 20 views at the time of the screenshot; this is the online recording's view count, not the radio broadcast audience. Separately, Facebook and Instagram analytics show substantial digital exposure, including 400,046 Facebook views over 1 January–8 November 2026 and 30,229 Instagram views over the 30-day snapshot. These totals cannot be attributed to the radio appearance alone. The audience size of the radio broadcasts and any resulting inquiries are not documented.
 
-Q15. Impact on the Local Organization:
-The activity may improve the visibility of local places and services. The report does not demonstrate a measurable effect on JCI Sahline's brand, membership, or partner engagement.
+Q15. Did the marketing strategy increase the LOM's visibility in the community?
+The available indicators show an established multi-channel presence: more than 4,000 Facebook followers announced on 7 November 2026, 1,530 Instagram followers on the profile snapshot, 249 LinkedIn connections, and 31 YouTube subscribers. Facebook recorded 400,046 views during 1 January–8 November 2026; Instagram recorded 30,229 views in its 30-day snapshot. These metrics demonstrate digital exposure but do not by themselves prove changes in local brand recognition.
 
-Q16. Increased local visibility:
-The reported mapping work relates to visibility of places across Sahline and nearby areas. It should not be equated with JCI brand visibility unless JCI Sahline branding and public attribution are evidenced.
+Q16. Did the strategy help attract new members?
+The Instagram dashboard recorded a net increase of 16 followers in its 30-day period, and the Facebook page announced crossing 4,000 followers. These are social-media followers, not new JCI members. The evidence file does not attribute new membership inquiries or joiners to the digital strategy.
 
-Q17. Attracted new members:
-The source report does not record member inquiries or new members attributable to this activity. No recruitment result is claimed.
+Q17. What feedback did you receive from stakeholders?
+The evidence file includes platform interactions such as reactions, comments, shares, and clicks, but it does not provide a structured survey or documented partner testimonials about the overall marketing strategy. We do not convert online interactions into claims of stakeholder satisfaction.
 
-Q18. Stakeholder feedback:
-No dated feedback from residents, businesses, or public stakeholders is included in the report.
+Q18. What types of content were produced?
+The documented content includes Arabic and French event announcements, posters, photographs, Reels, Stories, videos, workshop promotions, campaign awareness posts, radio-interview recordings, and Google Maps place information. Examples include the Month of Heritage, October Rose, rabies prevention, a LinkedIn workshop, and JCI training/activity videos.
 
-Q19. Types of content produced:
-The documented outputs are Google Maps place information, including locations, hours, and contact details. No LOM-produced videos, interviews, reels, stories, articles, or newsletters for this initiative are listed.
+Q19. How was content adapted to different platforms?
+JCI Sahline maintains profile and content activity on Facebook, Instagram, YouTube, and LinkedIn, while practical place information is added to Google Maps. The evidence includes short-form Reels and Stories, image posts, longer YouTube videos, and LinkedIn event announcements. A formal cross-platform content matrix or adaptation plan is not documented.
 
-Q20. Content adapted to platforms:
-Cross-platform adaptation is not documented.
+Q20. How do you assess the creativity and relevance of the content?
+The content addresses identifiable local interests: heritage, public health, professional development, community activities, and practical information about local institutions and businesses. The Month of Heritage Reel received about 15.6K views and 1,829 interactions in the Facebook content dashboard; an October Rose “Open Day” item recorded 61,399 views, 29,849 viewers, and 1,446 interactions in a separate insight capture. These are results for individual assets, not a general creativity score. We have no documented audience survey assessing content quality.
 
-Q21. Creativity and relevance:
-The practical value described is easier access to verified local place information. Evidence of relevance should come from confirmed listings, user feedback, or partner use; no user-outcome metric is reported.
+Q21. Have innovative tools or technologies been used?
+JCI Sahline uses platform analytics from Facebook and Instagram and contributes local place information through Google Maps. These tools support distribution, measurement, and local discoverability. The evidence does not establish AI, augmented reality, or an automated marketing system. Tunify Travel's proposed chatbot belongs to a separate project and is not claimed as part of this marketing programme.
 
-Q22. Innovative tools or technologies:
-Google Maps was used as the mapping platform, according to the report. The specific tools or features used and account ownership must be confirmed. We do not claim artificial intelligence or other emerging technology.
+Q22. Has automation been implemented?
+No scheduled-posting automation, newsletter system, or CRM is documented in the evidence provided. [If a tool is in use, add its name and dated proof.]
 
-Q23. Automation:
-No scheduled posts, newsletter automation, CRM, or other automation is documented.
+Q23. Have campaigns incorporated emerging technologies?
+No campaign using augmented reality, generative AI, or a marketing chatbot is documented. We do not claim these technologies for this programme.
 
-Q24. Emerging technologies:
-No chatbot, augmented reality, or generative AI use is documented in this mapping initiative. Tunify Travel's proposed chatbot belongs to a separate project and is not included here.
+Q24. What is the overall impact on the Local Organization?
+The available evidence demonstrates an active multi-channel presence and measurable exposure during the reporting period, including 400,046 Facebook views from 1 January to 8 November 2026 and 30,229 Instagram views during the dashboard's 30-day period. JCI Sahline also reports more than 4,000 Facebook followers, 1,530 Instagram followers, and a local Google Maps information effort. These figures support the visibility case; membership growth, website conversions, Google Maps place-level outcomes, and revenue attributable to marketing have not been measured in the supplied evidence.
 
 === SECTION 2: REQUIRED MEDIA & PROOFS ===
 
-PHOTO PROOFS:
-1. Dated screenshots of representative Sahline listings and their update history, with account identifiers protected where appropriate.
-2. Before/after listing images only if authentic dated records exist.
-3. Official JCI Sahline campaign plan, branded posts, and editorial calendar if created.
-4. Google Maps analytics showing exact reporting period and whether figures are account-wide or location-specific.
-5. Verified partner or user feedback and a documented correction/verification workflow.
-6. Do not display private contact details or claim unverified business endorsement.
+PHOTO / SCREENSHOT EVIDENCE:
+1. Facebook page screenshot showing the 4,000+ follower milestone, dated 7 November 2026.
+2. Facebook Professional Dashboard screenshots with visible reporting periods: 400,046 views (1 January–8 November 2026) and 94,271 views (11 October–7 November 2026).
+3. Facebook content insights for the Month of Heritage Reel and October Rose Open Day post, with the content title and metric period visible.
+4. Instagram profile and 30-day Insights screenshots showing 1,530 followers, 30,229 views, 8,975 unique viewers, 1,364 interactions, 286 profile visits, and +16 net followers.
+5. LinkedIn profile screenshot showing 249 connections and examples of post impressions (including the 445-impression workshop post).
+6. YouTube channel screenshot showing 31 subscribers and 42 videos.
+7. Website screenshot showing jci-sahline.tn is active, with a date and sample current project content.
+8. Radio Monastir audio/video recording, station/date evidence, and separate proof for Radio Chabeb if that appearance is to be claimed.
+9. Google Maps screenshots showing representative verified listings and update history; redact personal/account data as appropriate. Clearly label 535 contributions, 2.3K points, and 2.2M views as account-level figures.
+10. Photos or screenshots of actual posts, Reels, Stories, campaigns, and JCI-branded content. Avoid adding platform metrics from different periods or summing audiences across channels.
 
-VIDEO SCRIPT & CONCEPT (approximately 37 seconds):
-00:00–00:07 — Visual: Visitor searching for a local service on a map. Voice-over: “Finding reliable information about local places can be difficult for residents and visitors.”
-00:07–00:19 — Visual: Genuine listing examples for public services, schools, cultural sites, and hotels. Voice-over: “The reported Discover Sahline activity adds or updates place information, including locations, opening hours, and contact details.”
-00:19–00:29 — Visual: Show dated analytics only if verified. Voice-over: “The report cites over 500 contributions and more than 2.2 million account views; these figures are being verified and correctly attributed.”
-00:29–00:37 — Visual: JCI Sahline identity and local map. Voice-over: “We are confirming the Local Organization's role and measuring how this information helps the community.”
+VIDEO SCRIPT & CONCEPT (approximately 40 seconds):
+00:00–00:07 — Visual: Fast montage of Facebook, Instagram, website, LinkedIn, YouTube, and a Sahline map. Voice-over: “JCI Sahline connects its community through digital communication and practical local information.”
+00:07–00:18 — Visual: Heritage Reel, October Rose post, and rabies campaign content. Voice-over: “Our channels share community projects, health awareness, heritage, and professional-development activities.”
+00:18–00:29 — Visual: Dashboard screenshots with periods visible; show numbers one at a time. Voice-over: “Facebook recorded 400,046 views from January to 8 November 2026. Instagram recorded 30,229 views and 8,975 unique viewers in its 30-day snapshot.”
+00:29–00:36 — Visual: Google Maps place listing and Radio Monastir interview. Voice-over: “We also contribute practical information about schools, public services, cultural places, hotels, and local businesses.”
+00:36–00:40 — Visual: JCI Sahline logo and team. Voice-over: “Our next priority is to keep every metric transparent and measure how visibility leads to community engagement.”
 
 === SECTION 3: STRATEGIC NOTES & ACTION ITEMS (FOR INTERNAL USE ONLY) ===
 
-DATA TO ADJUST:
-- Confirm official JCI Sahline ownership/approval, exact start date, and reporting cut-off.
-- Verify whether 2.2 million views, 500 contributions, and 2,000 points are account-wide or Sahline-specific; preserve dated screenshots.
-- Confirm website, social accounts, marketing plan, content schedule, media appearances, and member inquiries.
-- Obtain user/partner feedback and document a listing-verification/correction process.
+DATA TO ADJUST / VERIFY:
+- Confirm official reporting cut-off and exact date the Google Maps work began.
+- Save original dated screenshots; the media extraction is a secondary transcription and several screenshots show differing or rounded figures.
+- Facebook: reconcile 400,046 views (Jan 1–Nov 8), 94,271 (Oct 11–Nov 7), and 4,000+ followers as distinct metrics and periods.
+- Instagram: confirm the date of the 30-day dashboard and that the 1,530 follower count came from the same or a clearly identified snapshot.
+- Confirm website availability, maintenance, and content history for the eligible period.
+- Confirm Radio Monastir broadcast date and the reported Radio Chabeb appearance with audio, station link, or written confirmation.
+- Google Maps figures (535 contributions, 2.3K points, 2.2M views) are account-level statistics; do not claim that all views relate to Sahline or that the account is an institutional LOM account without proof.
+- Do not add platform audiences or combine unique viewers across channels because of audience overlap.
+- Verify whether the 61,399-view October Rose content and the 7.4K-view Instagram item are distinct content assets and preserve the original platform labels.
 
 CRITICAL MISSING ELEMENTS:
-- The award assesses an OLM-managed marketing strategy, including social-media statistics, media appearances, content, and brand impact; most are absent.
-- Local Guide level/points are not by themselves evidence of a JCI marketing campaign.
-- Do not borrow the separate Tunify Travel chatbot or metrics.
+- The marketing form asks about formal annual objectives, editorial planning, community management, website cadence, automation, and recruitment impact. Those records are not included in the current material.
+- Social follower growth is not membership growth. No leads or member conversions are attributed to the campaign.
+- Radio appearance reach is unknown; 20 YouTube views are only the archived recording's views.
+- Google Maps contribution metrics do not establish Google Maps views of Sahline listings.
 
 STRENGTHENING TIP:
-Do not submit under this category unless the LOM can document ownership and a clear brand-marketing plan. If this was a personal Local Guide contribution, it is not a suitable OLM marketing entry as currently evidenced.
+Create a monthly channel scorecard with date range, starting/ending followers, views/reach, interactions, profile/site clicks, inquiries, and project-level links. Keep each platform's definitions separate and track any membership lead from first contact through joining. For this award, present Google Maps as one component of an integrated digital-presence programme only if the LOM formally owns or endorses the activity.

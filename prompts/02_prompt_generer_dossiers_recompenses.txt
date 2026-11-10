@@ -1,0 +1,85 @@
+PROMPT 2 — RÉDACTION DES DOSSIERS DE CANDIDATURE JCI
+
+RÔLE
+Agis comme conseiller expert et rédacteur de candidatures JCI pour JCI Sahline. Pour chaque catégorie explicitement retenue par l'utilisateur (ou recommandée dans recompenses_reponses/00_matching_strategy.md si l'utilisateur te demande de poursuivre), produis un dossier en anglais, professionnel, factuel et adapté aux questions exactes du formulaire.
+
+ARCHITECTURE RÉELLE DU DÉPÔT
+Arborescence utile (les noms de fichiers indiqués sont ceux du dépôt) :
+.
+├── prompts/
+│   ├── 01_prompt_matching_categories.txt
+│   └── 02_prompt_generer_dossiers_recompenses.txt
+├── rapport_texts/                         # sources de vérité des huit rapports
+├── recomp_txt/                             # formulaires/critères; lire le formulaire exact
+├── recompenses_reponses/
+│   ├── copy_paste_entries/                 # SEUL emplacement canonique des candidatures
+│   │   ├── 00_READ_ME_FIRST.txt
+│   │   └── 01 à 09_*.txt                   # dossiers existants, un par catégorie
+│   ├── 00_README.txt                       # ancien guide; ne prévaut pas sur le guide canonique
+│   ├── 02_*.txt à 06_*.txt                 # anciens brouillons; ne pas utiliser ni actualiser
+│   ├── rapports_consolides.txt             # compilation pratique, potentiellement obsolète
+│   └── 00_matching_strategy.md             # analyse des affectations, si elle existe
+├── plus/
+│   └── Extraction de statistiques d'images et media.md
+├── membres.txt
+├── recompenses_nationales_jcet_2025_content.txt
+└── README.md
+
+Les candidatures canoniques sont uniquement dans recompenses_reponses/copy_paste_entries/. Les anciens brouillons 02–06 et l'ancien guide à la racine de recompenses_reponses/ ne sont pas à actualiser ni à soumettre; ils peuvent être obsolètes. Les rapports source dans rapport_texts/ prévalent sur rapports_consolides.txt. Le fichier 2025 est un complément historique, pas le règlement 2026.
+
+RAPPORTS SOURCE
+eco-eleve.txt; fete_arbre.txt; loi_de_finance.txt; mois-patrimoine.txt; octobre rose.txt; tunify_travel.txt; vaccination-rage.txt; visibilite_locale.txt — tous sous rapport_texts/.
+Le dossier de gestion financière est une candidature institutionnelle fondée sur le formulaire de gestion financière et les informations fournies par l'utilisateur; ce n'est pas un rapport d'action supplémentaire.
+
+CONTEXTE CONNU À CONSIDÉRER
+- Organisation : JCI Sahline.
+- Thème national communiqué pour 2026 : « La Tunisie, capitale de tourisme arabe : Héritage, Affaire et Découverte » / “Tunisia, Capital of Arab Tourism: Heritage, Business and Discovery.”
+- Tunify Travel : premier prix SPARK & SHIP le 5 avril 2026 et 600 TND rapportés comme versés à l'OLM; vérifier justificatifs et dépenses. Wifak Tours et Easy Fly & Booking ont exprimé leur intérêt à collaborer et soutenir le projet, sans accord formel ni contribution précise documentés à ce jour.
+- Plantation lancée le 8 novembre 2026 : 130 végétaux rapportés — 100 myoporums, 10 ficus, 20 plantes ornementales mixtes; 20 plantes mixtes sont rapportées comme don/sponsoring de Pépinière Idéale. Budget, participation, rôles exacts des organismes et taux de survie non documentés. Les effets sur le CO2 ou la qualité de l'air ne sont pas mesurés.
+- Google Maps : plus de 500 contributions, environ 2,2 M vues et niveau Local Guide 6 sont des statistiques de compte rapportées; ne pas les attribuer automatiquement aux lieux Sahline ou à la portée officielle de l'OLM.
+- Médias sociaux : séparer les plateformes et périodes dans plus/Extraction de statistiques d'images et media.md. Ne jamais additionner des vues/abonnés pour prétendre à une audience unique.
+
+PROCÉDURE OBLIGATOIRE
+1. Identifie la catégorie sélectionnée par son nom et trouve le fichier correspondant dans recomp_txt/. Si plusieurs formulaires semblent correspondre, utilise celui que l'utilisateur a choisi et signale tout conflit uniquement dans la note de pré-soumission tout en haut du dossier.
+2. Recopie la liste complète des champs/questions du formulaire et réponds à chaque question dans l'ordre. Respecte les limites de mots lorsque le formulaire en indique.
+3. Rédige les réponses en anglais, à la première personne du pluriel (« JCI Sahline » / « we »), en texte directement copiable dans le portail. N'inclus pas d'instructions au rédacteur, commentaires génériques ni notes internes dans le corps des réponses.
+4. Après les réponses, ajoute une section de preuves photo précise, critère par critère, puis un concept vidéo et un script de voix off.
+5. Le script de voix off doit faire 90 à 100 mots en anglais, compter les mots et l'indiquer. Il doit rester naturellement prononçable dans la vidéo obligatoire de 30–45 secondes; viser environ 120–130 mots par minute. Si 90–100 mots ne peuvent pas être dits en 45 secondes à un débit naturel, privilégie la durée obligatoire et signale le conflit dans la note située tout en haut, sans altérer la véracité.
+6. Place toutes les notes stratégiques, lacunes, incertitudes, champs à confirmer et recommandations exclusivement dans un bloc « INTERNAL PRE-SUBMISSION NOTES — REMOVE BEFORE PASTING » tout en haut du fichier, avant le contenu officiel. Aucune note interne après ou à l'intérieur des réponses.
+7. Enregistre un seul fichier .txt par catégorie dans recompenses_reponses/copy_paste_entries/. Réutilise les noms numérotés existants; mets à jour un fichier existant au lieu de créer un doublon. Pour une nouvelle catégorie retenue, choisis le prochain numéro libre et un nom explicite. Ne crée aucun autre dossier.
+
+RÈGLES DE FIABILITÉ DES DONNÉES
+- N'invente jamais des métriques, montants, dates, présences, membres, partenaires, résultats, résultats de sondage, audience radio, adhésions, budgets ou impacts pour rendre un dossier plus convaincant.
+- N'insère jamais une valeur inventée ou une hypothèse non vérifiée comme un fait. Une candidature « complète » ne justifie pas la falsification.
+- Utilise les nombres explicitement présents dans les sources, en conservant leur statut (« le rapport indique/environ/objectif/projection ») et leur période.
+- Si une estimation peut être calculée objectivement à partir de données fournies, donne la méthode et indique explicitement « estimated, to be verified ». Si aucune base fiable n'existe, écris une réponse honnête et ciblée telle que « this outcome was not measured during the reporting period »; place le besoin de données dans les notes tout en haut.
+- Distingue contribution en espèces, apport en nature, remise, promesse, intérêt exprimé, accord signé et activité réalisée.
+- Ne décris pas Wifak Tours ou Easy Fly & Booking comme partenaires signés : leur intérêt à soutenir Tunify est rapporté, mais les accords et contributions ne sont pas documentés.
+- Ne transforme pas les 130 végétaux rapportés en taux de survie, bénéfice carbone ou amélioration mesurée de la qualité de l'air.
+- Ne transforme pas « animaux accueillis » en « animaux vaccinés » sans registre vétérinaire.
+- Ne transforme pas abonnés ou vues de profil en nouveaux membres ou bénéficiaires.
+- Respecte la règle de soumission d'un projet dans une seule catégorie si elle s'applique; la règle aperçue dans le fichier 2025 doit être confirmée pour 2026.
+
+STRUCTURE DE CHAQUE FICHIER À PRODUIRE
+INTERNAL PRE-SUBMISSION NOTES — REMOVE BEFORE PASTING
+[Courte liste des données ou preuves à confirmer, en distinguant ce qui empêche le dépôt.]
+
+CATEGORY [numéro si confirmé]: [nom exact dans le formulaire]
+PROJECT NAME: [nom]
+ORGANIZATION: JCI Sahline
+
+=== SECTION 1: OFFICIAL AWARD FORM SUBMISSION (COPY & PASTE READY) ===
+[Chaque champ du formulaire, dans l'ordre, suivi uniquement de la réponse à coller.]
+
+=== SECTION 2: REQUIRED MEDIA & PROOFS ===
+PHOTO PROOFS:
+[Liste précise de photos/documents réels à fournir, sans prétendre qu'ils existent déjà.]
+
+30–45 SECOND VIDEO CONCEPT:
+[Scènes et minutage.]
+
+VOICE-OVER SCRIPT (90–100 WORDS):
+[Script en anglais. Afficher le compte exact de mots. Aucun fait non documenté.]
+
+ACTION DE FIN DE TÂCHE
+Après rédaction, vérifie que le nombre de questions correspond au formulaire, que tous les liens/chiffres sont attribués à une source/période, qu'il n'y a pas de double fichier, et que les notes internes sont uniquement au tout début. Réponds brièvement en français avec les fichiers créés/mis à jour et les principales preuves restant à réunir.
