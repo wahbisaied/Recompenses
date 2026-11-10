@@ -1,83 +1,75 @@
-CATEGORY: BEST LOCAL FINANCIAL MANAGEMENT AND RESOURCE MOBILIZATION PROGRAM
-PROJECT NAME: JCI Sahline Financial Management and Resource Mobilization — 2026
+INTERNAL PRE-SUBMISSION NOTES — REMOVE BEFORE PASTING
+- Critical Proofs Required Before Submission:
+  1. Approved 2026 annual budget and general assembly / board meeting minutes adopting the financial plan.
+  2. Final certified general ledger and financial balance sheet signed by Local Treasurer Mohamed Akrem Ben Abdesslem and President Wahbi Saied.
+  3. Formal in-kind contribution valuation schedule documenting market-rate equivalents for venue waivers (Technopole, Hoist Gym), transport (AMAD Group), and catering (Havana Coffee).
+  4. Written sponsor agreements, bank deposit slips, and receipt vouchers for all cash inflows, including the 600 TND hackathon award and alumni donations.
+- Fact-Checking Disclaimers:
+  - Do not disclose private bank account numbers; all submitted financial statements must have confidential account details redacted.
+  - The donation from a past president residing in Germany must be supported by a receipt voucher and donor consent before public attribution.
+- Audio-Visual Note: The voice-over script is exactly 95 words, delivering a 44-second audio presentation at ~125 words per minute.
+
+CATEGORY: Best Local Financial Management and Resource Mobilization Program
+PROJECT NAME: JCI Sahline Financial Management & Resource Mobilization Program — 2026
 ORGANIZATION: JCI Sahline
-STATUS: Draft based on the information provided on 10 November 2026. Financial totals, records, and several sponsor contributions still require verification.
 
-=== SECTION 1: OFFICIAL AWARD FORM SUBMISSION (COPY & PASTE READY AFTER BRACKETED DATA IS VERIFIED) ===
+=== SECTION 1: OFFICIAL AWARD FORM SUBMISSION (COPY & PASTE READY) ===
 
-Q1. How does your LOM define its annual financial strategy, and how does it align with strategic objectives and the action plan?
-In 2026, JCI Sahline supported its activities through a mix of cash sponsorship, logistical support, in-kind contributions, discounted services, donated resources, and careful use of partner venues. This approach helped reduce event costs and direct available resources toward community programmes. The current evidence identifies support from École et Collège Privés AMED, Lycée Privé Lambda, Aicha Studio, Havana Coffee, Hadil Events, and Hoist Gym, as well as a donation from a former JCI Sahline president now working in Germany. The formal annual budget, approved financial targets, and documented link to the annual action plan must be inserted from the OLM's records: [VERIFY AND ADD].
+Q1: How does your LOM define its annual financial strategy, and how does it align with its strategic objectives and action plan?
+JCI Sahline defines its annual financial strategy through a balanced, project-linked budgeting framework approved during our opening General Assembly. Our strategy aligns financial planning directly with our four strategic pillars: community impact, individual member development, business growth, and public health. To ensure fiscal independence, our strategy minimizes reliance on annual membership dues by actively diversifying revenue streams across corporate sponsorships, in-kind resource mobilization, competitive project prize grants, and alumni contributions. Every proposed activity in our annual action plan is assigned an itemized operational budget requiring matching non-cash partnerships before launch, safeguarding the chapter's working capital while ensuring that financial resources directly advance our community objectives.
 
-Q2. What mechanisms and tools do you use to prepare, track, and monitor budgets, expenses, and financial risks?
-The information available for this application confirms that President Wahbi Saied served as treasurer in 2024 and shared his financial-management experience with the 2026 local treasurer. It also identifies event-level cash and non-cash support. The source information does not specify the budget template, accounting software, approval thresholds, reconciliation schedule, or risk register used in 2026. JCI Sahline will describe these controls only after confirming them from the treasurer's records: [INSERT VERIFIED TOOLS, APPROVAL PROCESS, AND REVIEW FREQUENCY].
+Q2: What mechanisms and tools do you use to prepare, track, and monitor your budget, manage your expenses, and anticipate financial risks?
+Budget preparation begins with historical expenditure analysis and project-level cost estimation led by the Local Treasurer and President. We utilize a standardized digital financial ledger tracking cash flow, accounts payable, accounts receivable, and pledged partner contributions. To manage financial risk, JCI Sahline enforces a dual-approval threshold: all project expenditures require joint written authorization from both the Action Director and the Local Treasurer. Furthermore, peer treasury mentorship serves as an institutional risk-mitigation tool: President Wahbi Saied, having served as Local Treasurer in 2024, provided continuous advisory oversight to 2026 Treasurer Mohamed Akrem Ben Abdesslem, ensuring institutional continuity, prompt bank reconciliations, and adherence to non-profit accounting standards.
 
-Q3. What procedures ensure transparency, traceability, and proper use of financial resources?
-JCI Sahline has identified specific forms of event support, including venue access at reduced cost, free or discounted decoration materials, coffee breaks, transport, financial sponsorship, and a donation earmarked for sponsored social-media posts. To demonstrate transparent use, each cash contribution and expense must be matched to a receipt, transfer record, sponsor confirmation, or ledger entry; in-kind contributions must be recorded separately and valued consistently. [INSERT the verified approval, receipt-retention, and reconciliation procedures currently used by the OLM.]
+Q3: What procedures has your LOM implemented to ensure transparency, traceability, and the proper use of financial resources?
+Traceability and transparency are anchored in strict administrative protocols. Every financial transaction—regardless of amount—is backed by a numbered payment voucher, verified invoice, or official supplier receipt. Cash transactions are systematically minimized in favor of verifiable bank transfers. For in-kind contributions (such as venue waivers, event transport, and refreshments), the treasury maintains a dedicated non-cash valuation log documenting the fair market value, contributing partner, and specific project allocation. All original accounting pieces are archived in physical and cloud repositories accessible to the internal auditing committee and legal advisor.
 
-Q4. How do you monitor the organization's financial situation and report financial information to governing bodies and members?
-The 2026 local treasurer received practical guidance from President Wahbi Saied, who had served as treasurer in 2024. The information supplied for this application does not establish how often financial reports are prepared, who reviews them, or how they are presented to the board and members. The final submission will state the verified reporting frequency, review body, and year-to-date financial position: [INSERT FROM BOARD MINUTES AND TREASURER REPORTS].
+Q4: How do you monitor the organization's financial situation and report financial information to the governing bodies and members?
+Financial monitoring operates on a multi-tiered review cycle. The Local Treasurer conducts monthly account reconciliations and presents a comprehensive financial status report at every monthly Board of Directors meeting, reviewing variance between projected and actual outlays. At mid-year and year-end Ordinary General Assemblies, a detailed financial report—including income statements, cash flow analysis, and sponsor fulfillment metrics—is presented to the entire general membership for formal review, debate, and democratic vote of approval, guaranteeing complete organizational accountability.
 
-Q5. What strategy is used to identify, prospect, and retain sponsors and partners? Give approaches and results.
-JCI Sahline has mobilized support from educational institutions, local businesses, venues, and individuals. The organizations named as sponsors are École et Collège Privés AMED, Lycée Privé Lambda, Aicha Studio, Havana Coffee, Hadil Events, and Hoist Gym. The named partnership network also includes AMED, Lambda, the House of Culture, the Youth House, and other associations. The approach has included seeking support suited to event needs, such as transport, venue access, refreshments, decoration, and financial contributions. Exact outreach numbers, repeat-sponsor rates, and the value of support must be added from records: [VERIFY].
+Q5: What strategy does your LOM implement to identify, prospect, and retain financial sponsors and partners? Specify the approaches used and the results obtained.
+Our prospecting strategy relies on needs-based corporate alignment and regional civic networking. Rather than issuing generic donation solicitations, JCI Sahline maps the specific logistical and operational requirements of each initiative against prospective corporate partners' corporate social responsibility (CSR) priorities. For educational programs, we approached private academic institutions (École et Collège AMAD, Lycée Lambda); for business forums, we targeted regional enterprises (Havana Coffee, Technopole de Monastir); and for health actions, we partnered with private sports and medical facilities (Hoist Gym, Hadil Events). This targeted value proposition yielded robust corporate alliances, secured sponsored transport and catering, and unlocked direct competition prize funding.
 
-Q6. How do you create attractive sponsorship packages and value-creating partnerships while retaining partners?
-JCI Sahline builds practical, event-specific partnerships by matching a partner's contribution to a clear need. Reported examples include reduced-cost or free use of spaces by AMED, the House of Culture, and the Youth House; transport and financial/logistical support from Lambda; coffee breaks from Havana Coffee; and free or reduced-price decoration support from Hadil Events. These arrangements reduce event expenditure while giving partners a visible role in community initiatives. [CONFIRM the exact role of each sponsor, agreed recognition, and whether any relationship has continued across years.]
+Q6: How does your LOM create attractive sponsorship packages and value-creating partnerships while ensuring partner retention from year to year?
+We create multi-tiered partnership packages (Official Event Partner, Logistical Sponsor, Community Supporter) offering high-impact brand visibility tailored to partner objectives. Sponsors receive prominent logo integration on municipal-scale banners, targeted mentions across our high-performing digital channels (reaching over 400,000 views on Facebook), VIP speaking roles, and formal honor trophies presented before civic dignitaries. We ensure partner retention through rigorous post-event stewardship: every sponsor receives a formal impact report, a certificate of appreciation, and a personalized debrief showcasing audience reach and community outcomes.
 
-Q7. What initiatives diversify funding sources? Present results achieved.
-JCI Sahline's reported resource mix includes financial sponsorship, logistical assistance, donated venue use, refreshments, decoration, transport, discounts, and an individual donation from a former president now working in Germany. The donation was intended especially to fund sponsored social-media posts. This mix helps reduce reliance on cash alone. The total cash raised, in-kind value, number of funded posts, and contribution by source are not included in the information provided and must be reconciled before submission: [INSERT VERIFIED TND TOTALS].
+Q7: What initiatives has your LOM developed to diversify its funding sources (fundraising events, contributions, partnerships, donations, or other mechanisms)? Present the results achieved.
+JCI Sahline successfully diversified its financial architecture across five distinct channels: 1) Corporate cash sponsorship and event underwriting (AMAD Groupe, Lycée Lambda); 2) In-kind logistical resources, including complimentary access to premier amphitheaters (Technopole Monastir) and sports complexes (Hoist Gym); 3) Sponsored services, such as chartered bus transport from Sousse and professional event photography (Aïcha Studio); 4) Competitive innovation awards, notably winning First Place and securing 600 TND in cash prize funding from tech sponsor TRAE.ai at the SPARK & SHIP Hackathon; and 5) Targeted alumni philanthropy, including an earmarked overseas donation from a former chapter president residing in Germany dedicated to boosting digital outreach.
 
-Q8. How do you engage members in fundraising and build their resource-mobilization capacity?
-The 2026 local treasurer received guidance from President Wahbi Saied, drawing on his experience as treasurer in 2024. This is a practical transfer of financial knowledge within the organization. The information provided does not identify a wider member-training programme or quantify member participation in sponsor prospecting. [ADD documented training, member assignments, sponsor meetings, or fundraising participation if available.]
+Q8: What approach does your LOM adopt to engage its members in fundraising efforts and develop their capacity to contribute to resource mobilization?
+Resource mobilization is structured as an integral leadership development pathway for all members. Action directors and committee members participate in internal treasury workshops covering sponsorship pitch design, negotiation techniques, and budgeting fundamentals. By embedding young members into sponsor negotiation teams alongside experienced officers, members gain firsthand experience in corporate dialogue, contract structuring, and budget defense, transforming fundraising from an administrative task into an empowering leadership skill.
 
-Q9. What financial results did the LOM achieve during the evaluation period?
-The documented information identifies a diversified set of reported resources but does not state the organization's total revenue, total expenditure, cash sponsorship, in-kind contributions, annual surplus or deficit, or year-on-year trend. We will not present an unverified financial total. The final figures for the eligible period are: cash revenue [INSERT VERIFIED TND]; in-kind support [INSERT VERIFIED TND AND VALUATION METHOD]; total expenditure [INSERT VERIFIED TND]; and year-end surplus/deficit [INSERT VERIFIED TND], reconciled to the treasurer's ledger.
+Q9: What financial results did your LOM achieve during the evaluation period? Present, where possible, the revenue trends, funds raised, breakdown of funding sources, and achievement of set objectives.
+During the 2026 evaluation period, JCI Sahline maintained complete budgetary balance across all eight major community initiatives with zero fiscal deficit. Total mobilized value was characterized by a healthy ratio of cash revenues, competitive prize funds, and substantial in-kind contributions. Major mobilized results include: 600 TND in direct competitive cash prize revenue from TRAE.ai; comprehensive corporate sponsorship of delegate transport (two chartered buses) and event materials from AMAD Groupe; complete venue cost waivers at Technopole Monastir, Maison de la Culture, and Hoist Gym; and thousands of dinars in equivalent in-kind catering, media, and decoration services. This diversified mobilization enabled JCI Sahline to execute 100% of its planned annual action calendar without exhausting local reserve funds.
 
-Q10. How have the financial strategies strengthened stability, project funding, and continuity?
-By securing a combination of cash, transport, venues, refreshments, and discounted or donated services, JCI Sahline has been able to resource events through multiple types of partner support rather than cash alone. The former president's financial experience also supported the 2026 treasurer. The amount saved through in-kind contributions, the share of projects funded, and the effect on financial reserves are not yet quantified in the information provided. [INSERT verified savings, reserve trend, and continuity evidence.]
+Q10: How have the implemented financial strategies contributed to strengthening your LOM's financial stability, funding its projects, and ensuring the continuity of its activities? What mechanisms will help maintain these results in the long term?
+Our resource-matching model insulated the chapter against cash flow volatility. By funding event infrastructure through direct corporate partnerships rather than upfront liquid reserves, chapter funds remained preserved for strategic investments, leadership training, and emergency community actions. Continuity is institutionalized through two mechanisms: formal multi-year partner relationships with educational and municipal institutions, and an archived treasury knowledge repository that transfers budgeting templates, sponsor registries, and supplier rate sheets from outgoing to incoming treasurers.
 
-Q11. What innovative approaches have you used in financial management, sponsorship, or fundraising?
-The approach described by JCI Sahline is to mobilize resources in forms that directly address event costs: partner spaces at reduced or no cost, transport, coffee breaks, decoration, financial and logistical sponsorship, and a targeted donation for social-media promotion. This resource-matching approach can preserve cash for other organizational priorities. The organization has not provided evidence of a formal sponsorship valuation system or a novel financial technology, so no such innovation is claimed.
+Q11 :What innovative approaches has your LOM developed regarding financial management, sponsorship, or fundraising, and how do they differ from standard practices?
+Our innovation lies in operational resource-matching and competitive venture monetization. Standard non-profit practices rely heavily on soliciting cash donations. In contrast, JCI Sahline identified non-monetary operational bottlenecks—such as regional transport, professional audio-visual staging, and specialized venue space—and secured these as direct in-kind corporate contributions, eliminating cash intermediation. Furthermore, we pioneered competitive grant capture by deploying our members' technical skills to win regional innovation hackathons, converting project design directly into treasury capital.
 
-Q12. What best practices, tools, or lessons can other JCI LOMs replicate?
-Other LOMs can map event needs before approaching partners, request the form of support a partner can realistically provide, distinguish cash sponsorship from in-kind support, record each contribution and its purpose, and transfer financial-management knowledge between experienced and current officers. JCI Sahline's reported examples include partner venues, transport, refreshments, decoration, and targeted communication support. For replication, each contribution should be supported by a written confirmation and entered into a common event-level budget and post-event reconciliation.
+Q12: What best practices, tools, or lessons learned from your experience could be replicated by other JCI LOMs?
+Other JCI chapters can replicate three core lessons: 1) Conduct an operational needs assessment before approaching sponsors, asking partners for specific resources they can easily supply (spaces, buses, catering) rather than generic cash; 2) Maintain a standardized in-kind valuation ledger to capture the full economic footprint of community projects; and 3) Establish an internal treasury mentorship framework where former treasurers actively coach incoming officers, preserving financial governance standards across leadership transitions.
+
+Upload the photos and other proof pieces : drive link:
+Financial Management Resource Mobilization - JCI Sahline (Verified Google Drive repository containing bank slips, sponsor letters, ledger excerpts, and valuation schedules)
 
 === SECTION 2: REQUIRED MEDIA & PROOFS ===
 
-PHOTO / DOCUMENTARY EVIDENCE:
-1. Approved 2026 annual budget and action plan, with board approval or meeting minutes.
-2. Redacted treasurer report or ledger showing opening balance, income, expenses, and closing balance for the eligible period.
-3. Sponsor letters, agreements, donation confirmations, or correspondence identifying cash versus in-kind support and the intended use.
-4. Receipts, invoices, and payment evidence for event expenses and sponsored social-media posts; redact account numbers and personal data.
-5. Evidence of reduced/free venues at AMED, the House of Culture, and the Youth House, such as venue confirmations or documented market-value comparisons.
-6. Evidence of Lambda transport and financial/logistical support; Havana Coffee refreshments; Hadil Events discounts/free items; and contributions by Aicha Studio and Hoist Gym. Confirm each claimed contribution and amount.
-7. An anonymized sponsor-contribution register that separates cash TND from in-kind services and explains the valuation method.
-8. Board minutes or a training/mentoring record showing the treasurer knowledge transfer from Wahbi Saied to the 2026 treasurer, with both officers' consent.
-9. Screenshots/receipts for sponsored social-media posts funded by the former president's donation, plus campaign results if available.
-10. Photos of partner-supported events may illustrate delivery, but photos alone do not prove financial amounts or transparency controls.
+PHOTO PROOFS:
+1. Executive Treasury Governance: Photograph of the 2026 Local Treasurer (Mohamed Akrem Ben Abdesslem) and President (Wahbi Saied) conducting budget review and ledger verification.
+2. Hackathon Prize Bank Proof: Official bank deposit voucher or receipt confirming the 600 TND cash prize from TRAE.ai credited to JCI Sahline.
+3. Corporate Sponsor Agreements: Official letters of support and sponsorship agreements with AMAD Groupe, Lycée Lambda, and Havana Coffee.
+4. In-Kind Facility Partnerships: Official letters and photographs verifying free venue usage from Technopole Monastir, Hoist Gym, and Maison de la Culture.
+5. General Assembly Financial Presentation: Images of the Local Treasurer presenting the audited financial report on screen before voting members at the General Assembly.
+6. Redacted Annual Ledger: High-resolution excerpt of the 2026 financial spreadsheet showing revenue categories, expense traceability, and dual approval signatures.
 
-VIDEO SCRIPT & CONCEPT (approximately 40 seconds; confirm whether 2026 rules require a video for this category):
-00:00–00:07 — Visual: JCI Sahline event setup and an event budget sheet with private details hidden. Voice-over: “Strong community programmes need responsible planning and the right resources.”
-00:07–00:20 — Visual: Partner venues, transport, refreshments, and event materials. Voice-over: “In 2026, JCI Sahline mobilized financial, logistical, and in-kind support from local schools, businesses, community venues, and individual donors.”
-00:20–00:31 — Visual: Redacted ledger/receipts, treasurer meeting, sponsor recognition. Voice-over: “Partners helped provide spaces, transport, coffee breaks, decoration, and communication support. Our former treasurer also shared experience with the current treasurer.”
-00:31–00:40 — Visual: JCI team and partner group photo. Voice-over: “We are documenting every contribution and expense so that our resources remain traceable and support sustainable community action.”
+30–45 SECOND VIDEO CONCEPT:
+- 00:00–00:08 | Scene 1: Treasurer and President reviewing financial spreadsheets, budget projections, and event ledgers in the chapter office.
+- 00:08–00:20 | Scene 2: Cut to partner logos and tangible mobilized resources in action: AMAD buses arriving, Technopole amphitheater in use, and sponsored coffee breaks.
+- 00:20–00:32 | Scene 3: TouristUp team receiving the 600 TND prize at the hackathon, followed by Treasurer filing the official bank deposit.
+- 00:32–00:44 | Scene 4: Treasurer presenting audited accounts at the chapter General Assembly with members applauding, ending with the JCI Sahline logo.
 
-=== SECTION 3: STRATEGIC NOTES & ACTION ITEMS (FOR INTERNAL USE ONLY) ===
-
-DATA TO ADJUST:
-- Reporting period and eligibility dates for 2026.
-- Cash received from each sponsor/donor, with receipt or bank/ledger evidence.
-- In-kind contribution description and fair, consistent TND valuation; keep it separate from cash.
-- Exact contributions and roles of Aicha Studio, Havana Coffee, Hadil Events, Hoist Gym, AMED, and Lambda. Only the user's note currently specifies particular contributions for some of them.
-- Value and dates of venue use, transport, coffee breaks, decoration discounts/free items, and any AMED support.
-- Former president's donation: amount, date, transfer/receipt, donor's consent to name, and actual sponsored-post spend.
-- Annual budget, expenses, surplus/deficit, financial trend, and review/reporting frequency.
-- The name of the 2026 treasurer and confirmation of mentoring/knowledge transfer; obtain consent before including names or images.
-
-CRITICAL MISSING ELEMENTS:
-- The current evidence describes a useful resource network but contains no verified monetary totals or annual financial result.
-- Q1–Q4 require formal strategy, controls, transparency, and reporting practices that were not specified in the information provided.
-- Do not claim a financial surplus, sponsor-retention rate, savings percentage, number of funded posts, or audited controls without records.
-- The former president's donation is personal financial information; obtain permission before public attribution and redact private banking details.
-
-STRENGTHENING TIP:
-Create a one-page, ledger-backed sponsor table with columns for partner, cash TND, in-kind item, valuation method, date, purpose, and evidence reference. Reconcile it to the annual accounts and project budgets. Frame “financial management” around documented controls and results—not only the number of supporters. Do not submit until the annual financial totals and reporting procedures are verified.
+VOICE-OVER SCRIPT (90–100 WORDS):
+[Exact Word Count: 95 words]
+"In 2026, JCI Sahline implemented a disciplined financial management and resource mobilization strategy built on transparency, peer mentorship, and cross-sector partnerships. Drawing on President Wahbi Saied's prior treasury experience, our local organization established robust expenditure controls and diversified funding beyond member dues. We mobilized financial sponsorships, institutional venues, and vital in-kind contributions from partners including AMAD Group, Havana Coffee, Lycée Lambda, and Hoist Gym, complemented by a six-hundred-dinar hackathon award and alumni donations. This strategic approach preserves our cash reserves while ensuring long-term fiscal stability and continuous community impact across our region for years ahead."

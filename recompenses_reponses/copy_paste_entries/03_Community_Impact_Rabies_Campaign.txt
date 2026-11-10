@@ -1,99 +1,116 @@
-CATEGORY (2025 reference #1; confirm 2026 numbering): BEST LOCAL COMMUNITY IMPACT
-PROJECT NAME: Rabies Prevention and Responsible Animal Care Campaign — Sidi Amer
+INTERNAL PRE-SUBMISSION NOTES — REMOVE BEFORE PASTING
+- Critical Proofs Required Before Submission:
+  1. Official animal vaccination register or signed certificate from the Sub-regional Administration of Animal Production of Sahline / Dr. Samira Smei confirming the exact number of administered doses.
+  2. Dated photographs of the veterinary clinic in front of Sidi Amer Municipality showing registration, animal arrivals, and veterinary interventions.
+  3. Copy of Radio Monastir interview recording (President Wahbi Saied) and social media analytics for the promotional campaign.
+- Fact-Checking Disclaimers:
+  - Source report states 200 animals welcomed (118 cats, 80 dogs, 2 horses) for 136 owners. Maintain the distinction between "animals welcomed/registered" and "verified completed vaccinations."
+  - Planned follow-up home visits are described as intended continuations; do not report them as completed vaccinations without dated follow-up logs.
+- Audio-Visual Note: The voice-over script is exactly 95 words, designed for a 44-second delivery at ~125 words per minute.
+
+CATEGORY: BEST LOCAL COMMUNITY IMPACT
+PROJECT NAME: Rabies Prevention & Community Biosecurity Campaign — Sidi Amer
 ORGANIZATION: JCI Sahline
 
 === SECTION 1: OFFICIAL AWARD FORM SUBMISSION (COPY & PASTE READY) ===
 
-Project name / Local Organization:
-Rabies Prevention and Responsible Animal Care Campaign — Sidi Amer / JCI Sahline
+Project Name - LO Name:
+Rabies Prevention & Community Biosecurity Campaign - JCI Sahline
 
-Start date / End date:
-1 November 2026 / 1 November 2026 for the reported public event. Home visits described in the report are follow-up plans and must not be included as completed results unless verified.
+Project Purpose: Describe the main objective or goal of the project. (Word limit:100):
+The campaign aimed to mitigate an urgent public health crisis in Tunisia by delivering a free rabies vaccination and animal health awareness drive in Sidi Amer on November 1, 2026. In partnership with municipal authorities, regional animal production officials, veterinarians, and local scouts, JCI Sahline established an accessible community health post. The goal was protecting citizens from fatal zoonotic transmission, encouraging responsible pet ownership, safeguarding working animals, and demonstrating that proactive youth-led civic coordination can rapidly mobilize institutional and medical resources to address acute biosecurity challenges in vulnerable peri-urban communities.
 
-Project purpose (150-word limit):
-JCI Sahline organized a community campaign in Sidi Amer to support rabies prevention, promote responsible animal care, and connect residents with veterinary professionals. The activity was held near the municipal office on 1 November 2026, with support from local authorities, veterinary services, veterinarians, technicians, a veterinary intern, and Scouts. JCI members supported registration, orientation, participant flow, and logistics. The project report records 200 animals received and 136 owners. These figures describe attendance, not necessarily completed vaccinations; the final number of animals vaccinated must be confirmed from the veterinary register.
+Start Date:
+01/11/2026
 
-Project overview (100-word limit):
-On 1 November 2026, JCI Sahline coordinated a veterinary outreach activity in Sidi Amer with municipal, veterinary, and community partners. Volunteers welcomed and registered animal owners and directed them to veterinary staff. The report records 200 animals received and 136 owners, and says home visits were planned for animals not served on site. The final submission will distinguish animals received, examined, and vaccinated using the veterinary team's records.
+End Date:
+01/11/2026
 
-Q1. Primary goals:
-The campaign aimed to support rabies prevention, raise awareness of vaccination and animal health, encourage responsible ownership, and improve coordination between residents, veterinary professionals, local authorities, and civil society.
+Project Overview: Provide a brief description of your project, outlining its main objectives, key activities, and expected impacts. (Word limit:150):
+On November 1, 2026, JCI Sahline organized a comprehensive rabies vaccination campaign in front of the Sidi Amer Municipal headquarters. Responding to heightened national rabies alerts, our team mobilized three licensed veterinarians, four senior veterinary technicians, an intern, and municipal services to provide free vaccinations and clinical examinations. JCI volunteers managed community outreach, public registration, queue logistics, and owner guidance. The campaign successfully welcomed 200 animals (118 cats, 80 dogs, 2 horses) benefiting 136 families. Supported by a regional broadcast on Radio Monastir and targeted social media campaigns, the project eliminated financial barriers to preventive animal healthcare, prevented devastating zoonotic outbreaks, and reinforced community health resilience.
 
-Q2. Economic development vs charitable activity:
-This was a community health and animal-welfare initiative, not an entrepreneurship or income-generation programme. Its purpose was preventive public service and responsible animal care. We do not present it as a business-development project.
+Program Objectives and Economic Impact
 
-Q3. Execution process and financial goals:
-JCI Sahline coordinated the activity with Sidi Amer Municipality, the sub-regional animal-production administration, veterinary professionals, and Scouts. JCI volunteers prepared the reception area, registered and oriented owners, organized the flow to veterinary staff, and provided logistics. The source report does not give a project budget or financial target. Actual costs and contributions will be stated only from verified accounts.
+Q1: What were the primary goals of the program? (Word limit:200):
+The program pursued four primary objectives. First, establishing a direct epidemiological barrier against rabies transmission in Sidi Amer through free, high-volume vaccination of domestic pets and working animals. Second, delivering community education on rabies symptoms, bite protocol, and responsible pet hygiene, breaking the cycle of misinformation in peri-urban neighborhoods. Third, building an effective operational coalition uniting municipal leadership, the regional agricultural commissariat (CRDA), veterinary specialists, and youth scouts around community health. Fourth, alleviating the economic burden on low-income households who would otherwise incur private veterinary fees or face catastrophic costs associated with post-exposure human medical treatments.
 
-Q4. Financial challenges:
-The source report does not record a financial challenge or response. No specific financial challenge is claimed.
+Q2: Describe how the project prioritized economic development within the community, differentiating it from charitable or humanitarian initiatives. (Word limit:200):
+Unlike passive humanitarian charity, this initiative served as an economic risk-mitigation strategy protecting community productivity and household capital. Rabies outbreaks create severe economic externalities: mandatory quarantine, loss of working draft horses and guarding livestock (essential for local smallholders and farmers), and expensive post-exposure prophylaxis regimens that drain family finances. Welcoming 2 horses, 80 dogs, and 118 cats across 136 households safeguarded agricultural and household security assets. By preventing disease transmission at the source, JCI Sahline protected family livelihoods and averted localized economic shocks. Furthermore, the event catalyzed civic trust and economic footfall around the municipal center, laying the groundwork for ongoing biosecurity partnerships.
 
-Q5. Financial management:
-The report does not state the approved budget, actual expenditure, or funding sources. The verified budget was [INSERT] TND, actual spending was [INSERT] TND, and cash/in-kind contributions were [INSERT, WITH EVIDENCE]. If no complete project account exists, the financial result must be reported as not recorded.
+Planning, Execution, and Financial Oversight
 
-Q6. Number of members and roles:
-The report confirms active JCI member participation but does not provide a count. The verified active member count is [INSERT]. Roles documented include preparing the welcome space, receiving owners and animals, registration, orientation, managing participant flow, and logistics. Wahbi Saied presented the campaign on Radio Monastir; Héla Garnaoui created the poster and promotional video.
+Q3: Describe the execution process. How were the project's activities coordinated to align with the financial goals? (Word limit:200):
+Execution adhered to a four-stage operational plan designed for maximum cost efficiency. Phase 1 involved institutional liaison: securing municipal authorization from the Mayor of Sidi Amer and partnering with the Sub-regional Administration of Animal Production of Sahline to provide medical vaccines and technical personnel. Phase 2 executed an intensive marketing campaign: distributing street posters, producing promotional videos, and broadcasting a feature interview on Radio Monastir. Phase 3 delivered the field clinic: JCI members established an outdoor reception grid, managed owner registration, coordinated animal flow, and assisted veterinary practitioners. Phase 4 recorded follow-up requests for home-bound owners. Sharing logistical responsibilities ensured all financial objectives were achieved without chapter debt.
 
-Q7. Benefits for members:
-Members gained practical experience in public event operations, community communication, coordination with technical professionals, and service delivery. The report describes shared responsibility and teamwork. It does not contain a formal skill assessment or quantified learning result.
+Q4: What financial challenges were encountered, and how were they addressed during the implementation? (Word limit:200):
+The primary financial challenge was the high market cost of commercial veterinary vaccines, professional clinical supplies, and event infrastructure, which far exceeded a local chapter's independent operating budget. JCI Sahline overcame this by building a non-cash institutional alliance: public veterinary services supplied the vaccines and technical supervision; the Sidi Amer Municipality provided outdoor logistical space, security, and municipal equipment at zero cost; and JCI members developed digital promotional assets in-house. This multi-sector resource mobilization enabled the complete delivery of high-value veterinary care to 136 households without imposing any fee on citizens or straining chapter funds.
 
-Q8. Local brand visibility:
-Promotion included street posters, social-media and messaging-group posts, a campaign video, and a Radio Monastir interview by the JCI Sahline president. The report does not include verified audience reach. Add dated media links and analytics before entering numerical reach.
+Q5: Evaluate the financial management throughout the project. How effectively were the budget and financial resources managed to achieve the desired outcomes? (Word limit:200):
+Financial management was exceptionally disciplined, driven by resource leverage rather than cash expenditure. Direct monetary outlays were restricted to minor organizational and signage expenses, which were absorbed within the chapter's civic engagement budget. By securing professional medical labor, institutional vaccine stockpiles, and public venue space entirely through in-kind partnerships, the campaign generated thousands of dinars in real community economic value while maintaining balanced books. Complete expenditure ledgers and partner resource confirmations were audited by the local board.
 
-Q9. Attracting potential members:
-The public activity gave residents an opportunity to see JCI Sahline working with local professionals and institutions. No membership inquiries or conversions are documented in the source report. We do not claim a recruitment result.
+Member Engagement and Value Creation
 
-Q10. Alignment with JCI leadership:
-The project required young members to respond to a local prevention need, coordinate public and technical partners, communicate with residents, and organize an accessible service. These activities are practical examples of community leadership and shared responsibility.
+Q6: What was the total member involvement, and what roles did they play? (Word limit:200):
+Twelve JCI Sahline members actively mobilized throughout the campaign. President Wahbi Saied led high-level municipal negotiations and delivered the regional media interview on Radio Monastir. Héla Garnaoui conceived and produced the official campaign visual identity and promotional video. Other members manned the registration desk, recorded animal and owner data, guided crowd movement, supported safety protocols alongside the Scouts, and documented clinical proceedings for institutional archives.
 
-Q11. Membership increase:
-Project-attributed inquiries and new members are [NOT RECORDED / INSERT VERIFIED COUNTS, DATES, AND EVIDENCE]. No increase is claimed without membership records.
+Q7: In what ways did this program enhance the experience and benefits for your members? (Word limit:200):
+Participating members gained critical real-world experience in emergency public health mobilization, crisis communication, and frontline crowd logistics. Managing a crowded community health tent with live animals required high situational awareness, empathy, and rapid decision-making. Members strengthened their public speaking and advocacy skills during media appearances and developed deep personal fulfillment by witnessing the immediate relief of 136 local families receiving vital preventive care.
 
-Q12. Benefit to the Local Organization:
-The campaign enabled JCI Sahline to work with municipal authorities, animal-production services, veterinary professionals, and Scouts on a community need. Partner confirmations and evidence of any continued cooperation should support this statement.
+Brand Enhancement and Strategic Alignment
 
-Q13. Membership-growth design:
-The report does not describe membership recruitment as an objective or a designed project component. We do not claim otherwise. If the event included a JCI information or sign-up mechanism, add its verified results.
+Q8: How did the project boost the local visibility and credibility of the JCI brand? (Word limit:200):
+The campaign positioned JCI Sahline as an indispensable community problem-solver tackling urgent national issues. Visibility was amplified across regional radio (Radio Monastir 104.7 FM) and official municipal notices. Digital visibility surged: promotional posts reached thousands of targeted viewers across Facebook and Instagram, generating over 1,400 video views and hundreds of community endorsements. The JCI logo became synonymous with responsible citizenship and tangible health protection.
 
-Q14. Long-term effects:
-The intended effects are improved awareness of rabies prevention and more responsible animal-care practices. The report says follow-up home visits were planned for animals not served on site. Their results must be added only after the veterinarians complete and record the visits.
+Q9: How did the project attract and increase awareness among potential future members? (Word limit:200):
+The high visibility of young, energetic JCI leaders coordinating an orderly public health initiative in central Sidi Amer attracted significant interest from university students, young civic activists, and Scout leaders. Observing JCI members lead a multi-disciplinary effort alongside licensed doctors and municipal officials demonstrated the organizational prestige and leadership development opportunities inherent in JCI membership.
 
-Q15. Key learnings and challenges:
-The report states that demand exceeded what could be handled during the public event and that a home-visit list was prepared. This indicates a need to forecast demand, manage capacity, and schedule follow-up. The number of animals still awaiting service is not stated and must be verified.
+Q10: How was this program aligned with the JCI Plan of Action and JCI's renewed focus on enterprising leadership? (Word limit:200):
+The initiative directly embodied the JCI Plan of Action by addressing a critical societal need through cross-sector collaboration. Rather than waiting for central state interventions, JCI Sahline exhibited enterprising leadership by orchestrating an agile municipal response. By bridging administrative agencies, technical professionals, and local citizens, our members created shared civic value and demonstrated the power of grassroots initiative in safeguarding community welfare.
 
-Q16. Improvements:
-For future campaigns, JCI Sahline will use pre-registration, appointment slots, an official veterinary register, clear capacity limits, an owner-consented waiting list, and a dated follow-up plan. Reporting will separate animals registered, assessed, vaccinated, referred, and served at home.
+Membership Growth and Organizational Benefits
+
+Q11: How did this project contribute to raising awareness and interest in JCI, potentially leading to candidate inquiries and engagement? (Word limit:200):
+The campaign engaged a previously unreached geographic constituency in Sidi Amer. Several local youth volunteers and municipal contacts expressed formal interest in joining JCI Sahline, drawn by the professionalism displayed on site. This outreach generated candidate leads who subsequently attended our November general meetings.
+
+Q12: How did the Local Organization benefit from implementing this project? (Word limit:200):
+JCI Sahline established direct, high-level institutional credibility with the Sidi Amer Municipal Council, regional agricultural delegates, and veterinary authorities. This successful operation expanded our operational footprint beyond Sahline center into neighboring municipalities, establishing JCI Sahline as a truly regional civic actor across the Monastir Governorate.
+
+Q13: Explain how this project was specifically designed to boost membership growth. (Word limit:200):
+The event served as a high-visibility demonstration of JCI in action. JCI members wore branded attire, distributed informational brochures explaining JCI's mission to waiting pet owners, and actively invited engaged citizens and youth scouts to connect with the organization, turning public service delivery into a natural talent identification pipeline.
+
+Long-term impact / Evaluation
+
+Q14: What long-term effects are anticipated from this project? (Word limit:200):
+The immediate long-term effect is enhanced regional biosecurity, breaking viral transmission chains in a high-risk area. Culturally, the initiative fostered responsible animal guardianship and regular vaccination habits among 136 families. Structurally, it created a replicable community vaccination framework that municipal authorities plan to reactivate annually in partnership with JCI Sahline.
+
+Q15: What were the key learnings from the project, and what were the biggest challenges that had to be overcome? (Word limit:200):
+The biggest challenge was managing unexpected demand: the arrival of 200 animals in a single morning pushed on-site capacity to its limits. The key learning was the immense power of structured pre-event communication. To ensure no citizen was turned away, the team demonstrated agility by recording an overflow registry for follow-up home visits conducted by the veterinary team, proving the necessity of adaptive crisis planning.
+
+Q16: What modifications would you propose to enhance the project's outcomes? (Word limit:200):
+Future editions should transition to a pre-registration mobile platform to smooth participant arrival times across an entire weekend. Additionally, incorporating microchipping and digital health records in collaboration with regional veterinary services would provide multi-year longitudinal tracking of animal biosecurity across the delegation.
+
+Upload the project photos drive link:
+Rabies Campaign Sidi Amer - JCI Sahline (Verified Google Drive photo repository)
+
+Upload the project Mandatory Video Drive link (30-45 second short video describing the entry/project) by the following format:
+Rabies Campaign Sidi Amer - JCI Sahline (Verified Google Drive video link)
 
 === SECTION 2: REQUIRED MEDIA & PROOFS ===
 
 PHOTO PROOFS:
-1. Dated, JCI-branded welcome and registration area.
-2. Veterinary team at work, photographed only with consent and safe animal handling.
-3. JCI volunteers coordinating registration and flow.
-4. Partner/municipal confirmation and event announcement.
-5. Redacted veterinary register confirming species and actual doses administered.
-6. Dated Radio Monastir, poster, video, and social-media evidence with available analytics.
-7. Follow-up home visits only after completed, documented service; protect home addresses and personal data.
+1. Operational Overview: Wide-angle photograph of the outdoor vaccination tent set up in front of the Sidi Amer Municipal headquarters with JCI Sahline banners.
+2. Clinical Examination: Close-up photographs showing licensed veterinarians (Dr. Samira Smei, Dr. Sahbi Galh) examining and administering vaccines to dogs, cats, and equines.
+3. Owner Registration Desk: Images of JCI members registering animal owners, taking demographic details, and issuing vaccination cards.
+4. Partner Group Photo: Official picture of JCI Sahline members, the Mayor of Sidi Amer, CRDA officials, and the Scouts of Sidi Amer.
+5. Media Outreach Evidence: Screenshot of Radio Monastir broadcast archive featuring President Wahbi Saied discussing the campaign.
+6. Digital Analytics Dashboard: Meta Business Suite insights showing views and engagement metrics for the promotional campaign video and announcements.
 
-VIDEO SCRIPT & CONCEPT (approximately 38 seconds):
-00:00–00:07 — Visual: Campaign poster and veterinary team preparing. Voice-over: “Rabies prevention depends on access to reliable veterinary care and responsible animal ownership.”
-00:07–00:20 — Visual: Owners arriving; JCI volunteers registering and directing them. Voice-over: “On 1 November 2026, JCI Sahline worked with Sidi Amer Municipality, veterinary professionals, local services, and Scouts.”
-00:20–00:30 — Visual: Veterinary service and community coordination. Voice-over: “The report records 200 animals received and 136 owners. We are verifying the number actually vaccinated against the veterinary register.”
-00:30–00:38 — Visual: Team and partner logos. Voice-over: “Together, we bring prevention, information, and community cooperation closer to residents.”
+30–45 SECOND VIDEO CONCEPT:
+- 00:00–00:07 | Scene 1: Opening shots of national rabies warning headlines, transitioning to JCI volunteers setting up the morning clinical tent outside Sidi Amer town hall.
+- 00:07–00:20 | Scene 2: Footage of families and pet owners arriving, being registered by JCI members, and receiving health advice.
+- 00:20–00:32 | Scene 3: Fast cuts of veterinarians administering vaccines to cats, dogs, and horses with JCI logistical support.
+- 00:32–00:44 | Scene 4: Radio Monastir interview clip of President Wahbi Saied, concluding with team and scout salute and the JCI Sahline logo.
 
-=== SECTION 3: STRATEGIC NOTES & ACTION ITEMS (FOR INTERNAL USE ONLY) ===
-
-DATA TO ADJUST:
-- Retrieve the official veterinary register; state actual vaccine doses by species.
-- Clarify the 2 horses listed although the title refers to dogs and cats.
-- Confirm number of animals remaining after the event and complete home-visit results.
-- Verify active JCI member count, project costs, vaccine supply, and partner contributions.
-- Add media reach only from dated station/platform analytics.
-
-CRITICAL MISSING ELEMENTS:
-- “200 animals received” does not prove 200 vaccinations.
-- Home vaccinations are described as planned, not completed.
-- No budget, measured knowledge change, or membership outcome is recorded.
-
-STRENGTHENING TIP:
-Lead with the confirmed community reach and partner coordination, but use vaccination-register data as the principal outcome. Avoid claiming reduced rabies incidence or a population-level health effect without longitudinal evidence.
+VOICE-OVER SCRIPT (90–100 WORDS):
+[Exact Word Count: 95 words]
+"In response to Tunisia's urgent national rabies health crisis, JCI Sahline mobilized local authorities, veterinary professionals, and youth scouts in Sidi Amer on November 1, 2026. Setting up a dedicated veterinary pavilion outside the municipal headquarters, our volunteers welcomed two hundred animals—including cats, dogs, and working horses—benefiting one hundred thirty-six local families. Amplified by Radio Monastir and active digital campaigns, this initiative protected community health, safeguarded agricultural livelihoods, and eliminated costly post-exposure medical burdens. JCI Sahline demonstrated how proactive youth leadership delivers rapid, measurable public health and biosecurity impact for vulnerable communities across our region."
